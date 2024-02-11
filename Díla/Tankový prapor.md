@@ -1,0 +1,1 @@
+Autor: [[Josef Škvorecký]]

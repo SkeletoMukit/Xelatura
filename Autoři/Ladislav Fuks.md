@@ -1,0 +1,2 @@
+## Dílo
+### [[Spalovač mrtvol]]

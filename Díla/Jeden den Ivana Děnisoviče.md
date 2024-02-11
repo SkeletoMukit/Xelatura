@@ -1,0 +1,1 @@
+Autor: [[Alexandr I. Solženicyn]]

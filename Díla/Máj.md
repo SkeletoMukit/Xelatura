@@ -1,0 +1,1 @@
+Autor: [[Karel Hynek Mácha]]
