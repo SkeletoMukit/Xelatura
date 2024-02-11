@@ -11,8 +11,12 @@
             "id": "fe199fada5657da0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Díla/Jeden den Ivana Děnisoviče.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Díla/Jeden den Ivana Děnisoviče.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Díla/Jeden den Ivana Děnisoviče.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Díla/Jeden den Ivana Děnisoviče.md"
+              }
             }
           }
         ]
@@ -132,14 +140,22 @@
     "hiddenItems": {
       "switcher:Otevřít rychlé přepínání": false,
       "graph:Otevřít graf": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Otevřít dnešní poznámku": false,
       "templates:Vložit šablonu": false,
-      "command-palette:Otevřít paletu příkazů": false
+      "command-palette:Otevřít paletu příkazů": false,
+      "canvas:Create new canvas": false
     }
   },
   "active": "fe199fada5657da0",
   "lastOpenFiles": [
+    "Díla/Hrabě Monte Christo.md",
+    "Díla/Hobbit.md",
+    "Díla/České nebe.md",
+    "Díla/Bílá nemoc.md",
+    "Díla/451° Fahrenheita.md",
+    "Literární teorie/Umělecké žánry/Science fiction.md",
+    "Autoři/Alexandr I. Solženicyn.md",
+    "README.md",
     "Šablony/Šablona - Díla.md",
     "Šablony/Šablona - Autoři.md",
     "Díla/Na západní frontě klid.md",
@@ -155,19 +171,11 @@
     "Literární teorie/Literární žánry/Dramatické žánry/Komedie.md",
     "Literární teorie/Subžánr/Fraška.md",
     "Literární teorie/Subžánr",
-    "Díla/451° Fahrenheita.md",
-    "Literární teorie/Umělecké žánry/Science fiction.md",
     "Literární teorie/Umělecké žánry/Fantasy.md",
     "Literární teorie/Umělecké žánry/Horor.md",
     "Literární teorie/Umělecké žánry",
     "Literární teorie/Literární žánry/Žánry střední epiky/Báje.md",
     "Literární teorie/Literární žánry/Žánry střední epiky/Pověst.md",
-    "Literární teorie/Výrazové formy/Poezie.md",
-    "Literární teorie/Výrazové formy/Próza.md",
-    "Literární teorie/Literární druhy/Lyrika.md",
-    "Literární teorie/Výrazové formy/Drama.md",
-    "Literární teorie/Literární druhy/Epika.md",
-    "Literární teorie/Literární druhy/Drama.md",
     "Literární teorie/Literární žánry/Dramatické žánry",
     "Literární teorie/Literární žánry/Žánry drobné epiky",
     "Literární teorie/Literární žánry/Žánry střední epiky",
