@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Díla/Bílá nemoc.md",
+                "file": "Literární historie/Česká/Poválečná literatura.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Díla/Bílá nemoc.md",
+                "file": "Literární historie/Česká/Poválečná literatura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Díla/Bílá nemoc.md",
+                "file": "Literární historie/Česká/Poválečná literatura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Díla/Bílá nemoc.md"
+                "file": "Literární historie/Česká/Poválečná literatura.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "fe199fada5657da0",
   "lastOpenFiles": [
-    "Autoři/Karel Čapek.md",
+    "Autoři/Ota Pavel.md",
     "Díla/Bílá nemoc.md",
+    "Autoři/Karel Čapek.md",
     "Šablony/Šablona - Díla.md",
     "Šablony/Šablona - Autoři.md",
     "Díla/451° Fahrenheita.md",
@@ -174,7 +175,6 @@
     "Literární teorie/Subžánr/Fraška.md",
     "Literární teorie/Subžánr",
     "Literární teorie/Umělecké žánry/Fantasy.md",
-    "Literární teorie/Umělecké žánry/Horor.md",
     "Literární teorie/Umělecké žánry",
     "Literární teorie/Literární žánry/Dramatické žánry",
     "Literární teorie/Literární žánry/Žánry drobné epiky",
