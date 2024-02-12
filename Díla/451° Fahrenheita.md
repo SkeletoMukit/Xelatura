@@ -10,6 +10,7 @@
 - popisuje antiutopickou vizi budoucnosti, ve které vítězí technokratická a povrchní kultura masových médií nad přemýšlivou společností uznávající hodnotu knih
 - Lidé v této společnosti se již o sebe vzájemně nezajímají a dokonce ztratili schopnost myslet, namísto toho utíkají do svého virtuálního světa hédonického vzrušení
 - Příběh byl jako krátká povídka otištěn nejprve v časopise Galaxy Science Fiction v únoru 1951
+
 ## Postavy
 - Guy Montag - hl. p. požárník
 - Mildred - žena Montaga

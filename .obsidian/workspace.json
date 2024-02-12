@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Díla/Lakomec.md",
+                "file": "Díla/Bílá nemoc.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Díla/Lakomec.md",
+                "file": "Díla/Bílá nemoc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Díla/Lakomec.md",
+                "file": "Díla/Bílá nemoc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Díla/Lakomec.md"
+                "file": "Díla/Bílá nemoc.md"
               }
             }
           }
@@ -148,22 +148,23 @@
   },
   "active": "fe199fada5657da0",
   "lastOpenFiles": [
+    "Autoři/Karel Čapek.md",
+    "Díla/Bílá nemoc.md",
+    "Šablony/Šablona - Díla.md",
+    "Šablony/Šablona - Autoři.md",
+    "Díla/451° Fahrenheita.md",
+    "Díla/Lakomec.md",
     "Autoři/Molière.md",
     "Autoři/Ray Bradbury.md",
     "Díla/Jeden den Ivana Děnisoviče.md",
     "Díla/Hrabě Monte Christo.md",
     "Díla/Hobbit.md",
     "Díla/České nebe.md",
-    "Díla/Bílá nemoc.md",
-    "Díla/451° Fahrenheita.md",
     "Literární teorie/Umělecké žánry/Science fiction.md",
     "Autoři/Alexandr I. Solženicyn.md",
     "README.md",
-    "Šablony/Šablona - Díla.md",
-    "Šablony/Šablona - Autoři.md",
     "Díla/Na západní frontě klid.md",
     "Autoři/Erich Maria Remarque.md",
-    "Díla/Lakomec.md",
     "Literární historie/Česká/Poválečná literatura.md",
     "Literární historie/Světová/Ztracená generace.md",
     "Literární teorie/Subžánr/Klíčový román.md",
@@ -175,14 +176,13 @@
     "Literární teorie/Umělecké žánry/Fantasy.md",
     "Literární teorie/Umělecké žánry/Horor.md",
     "Literární teorie/Umělecké žánry",
-    "Literární teorie/Literární žánry/Žánry střední epiky/Báje.md",
     "Literární teorie/Literární žánry/Dramatické žánry",
     "Literární teorie/Literární žánry/Žánry drobné epiky",
     "Literární teorie/Literární žánry/Žánry střední epiky",
     "Literární teorie/Literární žánry/Žánry velké epiky",
     "Literární teorie/Literární žánry/Lyrickoepické žánry",
     "Literární teorie/Literární žánry/Lyrické žánry",
-    "Literární teorie/Výrazové formy",
+    "Literární teorie/Laterální formy",
     "Literární historie/Světová",
     "Untitled.canvas",
     "2023.09.29-00.31.51.png"

@@ -11,6 +11,7 @@ Hlavní postavou kritické komedie je šedesátiletý Harpagon (z latinského _h
 Jako předlohu pro svou komedii použil Molière hru [Aulularia](https://cs.wikipedia.org/wiki/Aulularia "Aulularia") (Komedie o hrnci) římského dramatika [Plauta](https://cs.wikipedia.org/wiki/Titus_Maccius_Plautus "Titus Maccius Plautus").
 
 Podle jména hlavní postavy se vžilo i označení _harpagon_ jako prototyp velkého lakomce.
+
 ## Postavy
 - Harpagon – bohatý a lakomý vdovec. Má dvě děti, syna Kleanta a dceru Elišku, a zamiloval se do dívky Mariany, která však miluje Kleanta.
 - Mariana (Marie) – chudá dívka, která se stará o svou nemocnou matku. Zamilovala se do Kleanta. Ne pro jeho peníze, ale kvůli jeho povaze.
