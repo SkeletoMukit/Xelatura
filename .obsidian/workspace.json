@@ -25,7 +25,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Díla/Spalovač mrtvol.md",
+                "file": "Autoři/Molière.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4286bc81cc730477",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Šablony/šablona - dílo - chatGPT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eafbfc84a6fad850",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Šablony/šablona - autor - chatgpt.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Díla/Spalovač mrtvol.md",
+                "file": "Autoři/Molière.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Díla/Spalovač mrtvol.md",
+                "file": "Autoři/Molière.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Díla/Spalovač mrtvol.md"
+                "file": "Autoři/Molière.md"
               }
             }
           }
@@ -160,10 +184,25 @@
   },
   "active": "eb0de4f0425771b1",
   "lastOpenFiles": [
-    "README.md",
+    "Šablony/šablona - autor - chatgpt.md",
+    "Autoři/Molière.md",
+    "Díla/Lakomec.md",
+    "Autoři/Ray Bradbury.md",
+    "Šablony/šablona - dílo - chatGPT.md",
     "Díla/451° Fahrenheita.md",
-    "Díla/Hrabě Monte Christo.md",
+    "Díla/Kmotr.md",
+    "Autoři/Mario Puzo.md",
+    "Autoři/Karel Čapek.md",
     "Díla/Bílá nemoc.md",
+    "Autoři/John Ronald Reuel Tolkien.md",
+    "Díla/Hobbit.md",
+    "Díla/Hrabě Monte Christo.md",
+    "Díla/České nebe.md",
+    "Šablony/Šablona - Díla.md",
+    "Šablony/Šablona - Autoři.md",
+    "Šablony/chatGPT",
+    "Díla/Spalovač mrtvol.md",
+    "README.md",
     "Díla/Tankový prapor.md",
     "Díla/Strakonický dudák.md",
     "Autoři/Ota Pavel.md",
@@ -172,20 +211,6 @@
     "Díla/Osudy dobrého vojáka Švejka ze světové války.md",
     "Díla/Ostře sledované vlaky.md",
     "Díla/Noc na Karlštejně.md",
-    "Díla/Na západní frontě klid.md",
-    "Díla/Maryša.md",
-    "Díla/Máj.md",
-    "Díla/České nebe.md",
-    "Autoři/Bratři Mrštíkové.md",
-    "Díla/Lakomec.md",
-    "Díla/Kmotr.md",
-    "Díla/Jeden den Ivana Děnisoviče.md",
-    "Literární historie/Česká/Poválečná literatura.md",
-    "Autoři/Karel Čapek.md",
-    "Šablony/Šablona - Díla.md",
-    "Šablony/Šablona - Autoři.md",
-    "Autoři/Molière.md",
-    "Autoři/Ray Bradbury.md",
     "Literární teorie/Subžánr",
     "Literární teorie/Umělecké žánry",
     "Literární teorie/Literární žánry/Dramatické žánry",
@@ -195,7 +220,6 @@
     "Literární teorie/Literární žánry/Lyrickoepické žánry",
     "Literární teorie/Literární žánry/Lyrické žánry",
     "Literární teorie/Laterální formy",
-    "Literární historie/Světová",
     "Untitled.canvas",
     "2023.09.29-00.31.51.png"
   ]

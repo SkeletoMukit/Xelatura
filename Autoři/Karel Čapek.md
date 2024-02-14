@@ -1,43 +1,47 @@
 # Karel Čapek
-| Rodné jméno | Karel  Čapek |
-| ---- | ---- |
-| Narození | 1890 |
-| Úmrtí | 1938 |
-| Příčina úmrtí | Zápal plic |
-| Povolání | Spisovatel, novinář, dramatik, filozof, fotograf, překladatel |
-| Národnost | česká |
-| Alma mater | Univerzita Karlova |
-| Žánr | [[Science fiction]] |
-| Témata | literatura pro dospívající, literární tvorba, žurnalistika, překladatelská činnost, literatura pro děti, divadelní hra a theatrical work |
-| Významná díla | [[Bílá nemoc]],<br>Válka s mloky,<br>R.U.R |
-| Ocenění | Řád Tomáše Garrigua Masaryka I. třídy (1995)<br>Čestné občanství města Hradce Králové (2019)<br>Čestné občanství Prahy 10 (2021) |
-| Rodíče | MUDr. Antonín Čapek<br>Božena Čapková |
-| Manžel(ka) | Olga Scheinpflugová |
-| Děti |  |
-| Příbuzní | Josef Čapek (bratr)<br>Helena Čapková (sestra)<br>Helena Koželuhová (neteř) |
-- spisovatel, novinář, politik
-- [[Próza]], [[Drama]], fejetony…
-- bratr Josef a sestra Helena (podle ní i Helena Gloryová -> Helena robotka)
-- poznamenán 1. sv. válkou 1914 mu bylo 24 (nebyl odveden na frontu) působily na něho hrozivé zprávy z novin oznamující sta tisíce mrtvých, stroze píšící o smrti a hrůze války
-- válka využívala nejmodernější techniku k zabíjení – u Čapka vyvolalo pocit nedůvěry v moderní techniku, odpor
-- Čapek je okouzlen civilismem (pokrokem, tím, co lidstvo dokázalo), ví, že lidské schopnosti mohou jít hodně daleko, začíná přemýšlet, co by se stalo, kdyby lidstvo nedokázalo ovládat své vynálezy → může to znamenat zbraň, která může zničit lidstvo
-- nedůvěra v převratný pokrok
-- nemá rád válku – kde pokrok vede k ničení lidstva (stejně jako v knize)
-- s R.U.R. se stal světově proslulým
-- od války trpěl poruchou míšních nervů, lékaři mu nedávali šanci na dlouhé dožití -> vážil si lidského života a v každém díle jej uctíval a vyzdvihoval nade vše
-- 1938 byl navržen na Nobelovu cenu za literaturu
-- jeho tvorba v rozmezí 20 let – mezi světovými válkami
-- první prózy vydal společně se starším Josefem (1916) a poslední [[Román]] těsně před smrtí 1938
-- patří k nejčtenějším autorům v Česku
+## Základní informace
+- **Jméno:** Karel Čapek
+- **Datum narození:** 9. ledna 1890
+- **Místo narození:** Malé Svatoňovice, Rakousko-Uhersko (dnes Česká republika)
+- **Datum úmrtí:** 25. prosince 1938
+- **Místo úmrtí:** Praha, Československo (dnes Česká republika)
+- **Národnost:** Česká
+- **Profese:** Spisovatel, dramatik, novinář
 
-## Zajímavosti
-- Autorem slova „robot“, které se s divadelní hrou R.U.R. rozšířilo po světě, je ve skutečnosti bratr Josef Čapek. Původně chtěl Karel Čapek roboty nazvat „laboři“, ale nakonec mu znělo toto pojmenování příliš knižně. Slovo robot vzniklo ze slovesa robotovat (pracovat).
+## Život
+- **Raný život:** Narodil se v rodině lékaře a učitelky. Vystudoval gymnázium v Hradci Králové a následně studoval filozofii a estetiku na Filozofické fakultě Univerzity Karlovy v Praze.
+- **Profesní kariéra:** Po ukončení studií se začal věnovat novinařině a psaní. Spolupracoval s různými periodiky a psal různorodé literární žánry.
+- **Literární kariéra:** Proslavil se zejména jako spisovatel, dramatik a novinář. Jeho tvorba zahrnuje rozmanité žánry od sci-fi až po politickou satiru.
+- **Politické angažmá:** Byl aktivní v politickém dění své doby a kriticky se vyjadřoval k politickým událostem. Jeho názory často ovlivňovaly jeho literární dílo.
 
 ## Dílo
-### [[Bílá nemoc]]
 
-### Boží muka
+### R.U.R. (Rossumovi univerzální roboti)
+- Sci-fi drama, které poprvé použilo slovo "robot". Hra se zabývá otázkami technologického pokroku a etických důsledků umělé inteligence.
+
+### Krakatit
+- Vědeckofantastický román, který se zabývá otázkami zneužití vědeckých objevů a riziky masové destrukce.
 
 ### Válka s mloky
+- Satirický román, který kriticky reflektuje politické a sociální dění své doby, přičemž hlavními postavami jsou mlokové, inteligentní mořští tvorové.
 
-### R.U.R
+### Ze života hmyzu
+- Sbírka humorných povídek, které personifikují hmyz a reflektují lidskou společnost a mezilidské vztahy.
+
+###  [[Bílá nemoc |Bílá nemoc]]
+- Drama, které se zaměřuje na etické otázky kolem vědeckého výzkumu a zneužívání medicíny pro politické účely.
+
+### Továrna na absolutno
+- Román, který se zabývá utopií a dystopií, a kritizuje manipulaci s veřejným míněním a kontrolou informací.
+
+### Matka
+- Román, který pojednává o matčině lásce, obětavosti a jejím vztahu ke svým dětem.
+
+### Loupežník
+- Román, který sleduje osudy loupežníka a jeho konflikt s morálními zásadami a společností.
+
+### Hovory s TGM
+- Sbírka rozhovorů s Tomášem Garriguem Masarykem, prvním prezidentem Československa, která reflektuje politickou situaci a myšlenky té doby.
+
+### Povídky z jedné kapsy
+- Sbírka krátkých povídek různých žánrů a námětů, které ukazují Čapkův široký literární rejstřík.

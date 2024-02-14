@@ -1,38 +1,34 @@
 # Molière
-| Rodné jméno | Jean-Baptiste Poquelin |
-| ---- | ---- |
-| Narození | 1922 |
-| Úmrtí | 1673 |
-| Příčina úmrtí | tuberkolóza |
-| Povolání | dramatik, divadelní herec, básník, satirik, divadelní režisér, dramaturg, spisovatel a divadelní ředitel |
-| Národnost | francouzská |
-| Alma mater | Lyceum Ludvíka Velikého,<br>Stará orleánská univerzita,<br>Orleánská univerzita |
-| Žánr | [[Komedie]], [[Fraška]]  |
-| Témata | divadlo, herectví |
-| Významná díla | [[Lakomec]],<br>Tartuffe,<br>Don Juan,<br>Misantrop,<br>Měšťák šlechticem ,<br>Zdravý nemocný |
-| Ocenění |  |
-| Rodíče | Jean Poquelin |
-| Manžel(ka) |  |
-| Děti |  |
-| Příbuzní |  |
-## Život
-- pocházel z bohaté rodiny
-- rozhodl se stát hercem
-- kočoval s divadlem
-- založil si vlastní divadlo
-- proslavil se
-- byl pozvaný na královský dvůr
-- kritizoval společnost, církev
+## Základní informace
+- **Jméno**: Jean-Baptiste Poquelin
+- **Datum narození**: 15. ledna 1622
+- **Datum úmrtí**: 17. února 1673
+- **Národnost**: Francouzská
+- **Povolání**: Dramatik, herec, režisér
 
-## Zajímavosti
-- hodně ovlivnil moderní francouzštinu
-- kritika kvůli "neodbornosti"
+## Život
+- Molière se narodil v Paříži jako syn bohatého obchodníka.
+- Studoval na prestižní škole Collège de Clermont, kde se seznámil s klasickými latinskými autory.
+- V roce 1643 založil divadelní společnost "L'Illustre Théâtre" společně s hercem Madeleine Béjartovou a jejím bratrem.
+- Jeho divadelní kariéra byla poznamenána neustálými finančními problémy a konflikty s cenzurou a církví.
+- Molière zemřel krátce po premiéře svého posledního díla "The Imaginary Invalid" (Le Malade imaginaire) na scéně, trpící záchvatem při ztvárnění hlavní role.
 
 ## Dílo
-### [[Lakomec]]
+### Tartuffe (1664)
+- Komická satira na pokrytce a pokrytectví v 17. století.
+- Vyvolala kontroverzi a byla dokonce zakázána cenzurou kvůli údajné kritice náboženství.
 
-### Tartuffe
-### Don Juan
-### Misantrop
-### Měšťák šlechticem 
-### Zdravý nemocný
+### Misanthrop (1666)
+- Komedie, která zkoumá koncept lidské morální integrit a nesnášenlivosti.
+
+### [[Lakomec]] (1668)
+- Komický pohled na posedlost bohatstvím a chamtivost.
+
+### Don Juan (1665)
+- Satirické drama o svobodném a nezodpovědném Don Juanovi.
+
+### Učená ženy (1672)
+- Komická hra, ve které Molière zpochybňuje postavení žen ve společnosti a vzdělání.
+
+### Médecin malgré lui (1666)
+- Farce o nechtěném lékaři, který se dostane do absurdních situací.

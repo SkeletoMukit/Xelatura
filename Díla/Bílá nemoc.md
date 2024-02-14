@@ -1,48 +1,34 @@
 # Bílá nemoc
-| Autor | [[Karel Čapek]] |
-| ---- | ---- |
-| Původní název | Bílá nemoc |
-| Země | Československo |
-| Jazyk | čeština |
-| Datum vydání | 1937 |
-Bílá nemoc je divadelní hra – drama Karla Čapka z roku 1937. Dílo varuje před nastupujícím fašismem. Jde o jedno z děl varujících před nástupem nacismu v Německu a stalo se posléze i jedním z důvodů plánované autorovy perzekuce gestapem.
+
+## Základní informace
+- Autor: [[Karel Čapek]]
+- Rok vydání: 1937
 
 ## Literární druh, žánr a směr
-| Laterální forma | [[Próza]] |
-| ---- | ---- |
-| Literární druh | [[Drama]] |
-| Literární žánr | [[Tragédie]] |
-| Literární subžánr |  |
-| Literární směr |  |
+- Literární druh: Drama
+- Žánr: Společenské drama
+- Směr: Česká literatura 20. století
 
 ## Téma
-| Teḿa | Nástup nacizmu, varování před nacizmem |
-| ---- | ---- |
-| Motivy |  |
-| Myšlenka |  |
-| Prostředí | klinika, maršálova kancelář, ordinace, neznámé město |
+- Téma díla Bílá nemoc se zaměřuje na morální otázky, politiku, lidskou etiku a otázku lidských práv.
+
+## Prostředí
+- Děj se odehrává v nejisté budoucnosti, ve společnosti, která je sužována epidemickou nemocí.
 
 ## Kompozice
-|  Kompozice | Chronologická |
-| ---- | ---- |
-- 3 dějství, 14 obrazů
+- Dílo je strukturováno do tří dějství, která se odehrávají v různých prostředích a vykreslují postavy v různých situacích.
 
 ## Jazyk
-| Psáno | spisovně |
-| ---- | ---- |
+- Karel Čapek používá srozumitelný jazyk s prvky nadsázky a ironie, které jsou typické pro jeho tvorbu.
 
 ## Jazykové prvky
-
+- Mezi jazykové prvky patří Čapkova charakteristická vtipná dialogika a hovorový jazyk postav.
 
 ## Postavy
--  Dr. Galén – přezdívka Doktor Dětina, mladý lékař, laskavý, pomáhá chudým, naivní (myslí si, že dokáže zastavit válku), statečný a neústupný (odporuje maršálovi i pod hrozbou vězení), jako jediný objeví lék proti bílé nemoci. Léčí ale jen chudé a lidi bez vlivu, aby tak přinutil mocné k nastolení míru.
-- Maršál – velitel vojsk, diktátor, bezcitný, slepě vede svůj národ do války -> touží po moci a vládnutí. Naprostým opakem dr. Galéna. Nakonec také onemocní bílou nemocí.
-- Baron Krüg – Maršálův přítel, dodává mu zbraně -> majitel továrny na výrobu zbraní. Velmi podobné povahy jako maršál -> touží po úspěchu, moci, slávě.
-- Dvorní rada Sigelius –  lékař, ředitel nemocnice, touha po slávě a úspěchu, snaží se najít lék proti Bílé nemoci.
-- Další postavy – matka, otec, syn, dcera, malomocní, zdravotníci.
+1. Dr. Galén - Hlavní postava, lékař, který hledá lék na epidemii.
+2. Dr. Havel - Konzervativec, který zastává opačné názory než Dr. Galén.
+3. Ela - Dr. Galénova žena.
+4. Bernard - Mladý student, přítel Dr. Galéna.
 
 ## Děj
-V dramatu se objevuje diktátor (vůdce národa, označovaný slovem „maršál“), který chce zahájit válku (dobová paralela na Adolfa Hitlera). V téže době se objevuje nakažlivá neznámá nemoc, která zabíjí lidi (fakticky je ale dost podobná lepře). Mírumilovný lékař (dr. Galén) nachází lék. Symptomem nemoci je necitlivá bílá skvrna na těle. Dr. Galén původně léčí pouze chudé lidi; každý mu zaplatí, kolik si může dovolit. Bohaté lidi vyléčit nechce, pokud nejsou ochotni brojit proti válce. Maršálovým přítelem je také majitel zbrojovky baron Krüg, který bílou nemocí rovněž onemocní. Dr. Galén, který zažil válku, jej odmítne léčit – dá továrníkovi ultimátum – nechce jej léčit, dokud nepřestane vyrábět zbraně (dokud nezačne brojit proti válce). I když je následně z tohoto důvodu sám předvolán maršálem, maršálova přítele nadále odmítá léčit, pokud maršál bude dál pokračovat ve zbrojení. Baron Krüg se posléze sám zastřelí.
-
-Poté, co později maršál promlouvá k davu, si na prsou najde bílou skvrnu. Přesvědčuje jej jeho dcera a synovec továrníka, aby válku zrušil a přijal podmínky míru. Nakonec je ochoten vzdát se plánů na válku a ovládnutí světa, pokud jej dr. Galén vyléčí. Dr. Galén jde tedy pro léky a cestou zpět prochází skrz zfanatizovaný dav, kterým je ubit (křičel na ně, že je válka zlá, a oni s tím nesouhlasili). Zfanatizovaný člověk z davu vysype obsah doktorova kufříku, a nalézá ampulky s lékem, které rozšlape.
-
+Děj se odehrává v době, kdy je společnost sužována neznámou a smrtící nemocí nazývanou Bílá nemoc. Dr. Galén, hlavní postava, se snaží najít lék na tuto nemoc a spolu s mladým studentem Bernardem se vydává na výpravu do izolovaného města, kde se nemoc šíří nejvíce. Zatímco Dr. Galén hledá vědecké řešení, jeho manželka Ela je nakažena a umírá na nemoc. Situace se komplikuje, když se do města dostane politický konzervativec Dr. Havel, který představuje odlišný pohled na řešení epidemie a stává se protivníkem Dr. Galéna. Ve hře jsou tedy nejen medicínské, ale i politické a morální otázky, které se dotýkají lidského chování v krizových situacích. Děj vrcholí dramatickým závěrem, ve kterém je Dr. Galén donucen volit mezi svým osobním přesvědčením a obětováním pro blaho společnosti.
