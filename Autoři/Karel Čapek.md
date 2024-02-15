@@ -5,43 +5,36 @@
 - **Místo narození:** Malé Svatoňovice, Rakousko-Uhersko (dnes Česká republika)
 - **Datum úmrtí:** 25. prosince 1938
 - **Místo úmrtí:** Praha, Československo (dnes Česká republika)
+- **Příčina úmrtí:** Zápal plic
 - **Národnost:** Česká
 - **Profese:** Spisovatel, dramatik, novinář
+- **Žánr:** [[Science fiction]], sociální satira, drama
 
 ## Život
-- **Raný život:** Narodil se v rodině lékaře a učitelky. Vystudoval gymnázium v Hradci Králové a následně studoval filozofii a estetiku na Filozofické fakultě Univerzity Karlovy v Praze.
-- **Profesní kariéra:** Po ukončení studií se začal věnovat novinařině a psaní. Spolupracoval s různými periodiky a psal různorodé literární žánry.
-- **Literární kariéra:** Proslavil se zejména jako spisovatel, dramatik a novinář. Jeho tvorba zahrnuje rozmanité žánry od sci-fi až po politickou satiru.
-- **Politické angažmá:** Byl aktivní v politickém dění své doby a kriticky se vyjadřoval k politickým událostem. Jeho názory často ovlivňovaly jeho literární dílo.
+- Karel Čapek se narodil v rodině lékaře a učitelky.
+- Studoval filosofii na Karlově univerzitě v Praze.
+- Začal pracovat jako novinář a brzy se stal významným publicistou.
+- Byl aktivní v kulturní a politické scéně Československa.
 
 ## Dílo
+### R.U.R. (Rossum's Universal Robots) - 1920
+- První český spisovatel, který použil slovo "robot" v této hře.
+- Satirická sci-fi hra, která pojednává o vytvoření humanoidních robotů a jejich dopadu na společnost.
 
-### R.U.R. (Rossumovi univerzální roboti)
-- Sci-fi drama, které poprvé použilo slovo "robot". Hra se zabývá otázkami technologického pokroku a etických důsledků umělé inteligence.
+### Válka s Mloky - 1936
+- Další významné sci-fi dílo, kde Čapek kritizuje politiku a společenské tendence.
 
-### Krakatit
-- Vědeckofantastický román, který se zabývá otázkami zneužití vědeckých objevů a riziky masové destrukce.
+### Krakatit - 1922
+- Vědeckofantastický román o nebezpečném vynálezu, který může zničit svět.
 
-### Válka s mloky
-- Satirický román, který kriticky reflektuje politické a sociální dění své doby, přičemž hlavními postavami jsou mlokové, inteligentní mořští tvorové.
+### Ze života hmyzu - 1921
+- Sbírka povídek, kde přirovnává lidskou společnost k hmyzu.
 
-### Ze života hmyzu
-- Sbírka humorných povídek, které personifikují hmyz a reflektují lidskou společnost a mezilidské vztahy.
+### Loupežník - 1920
+- [[Historický román]] o zbojníkovi Juraji Jánošíkovi.
 
-###  [[Bílá nemoc |Bílá nemoc]]
-- Drama, které se zaměřuje na etické otázky kolem vědeckého výzkumu a zneužívání medicíny pro politické účely.
+### Matka - 1907
+- Čapekův první román, kde líčí život venkovského kněze.
 
-### Továrna na absolutno
-- Román, který se zabývá utopií a dystopií, a kritizuje manipulaci s veřejným míněním a kontrolou informací.
-
-### Matka
-- Román, který pojednává o matčině lásce, obětavosti a jejím vztahu ke svým dětem.
-
-### Loupežník
-- Román, který sleduje osudy loupežníka a jeho konflikt s morálními zásadami a společností.
-
-### Hovory s TGM
-- Sbírka rozhovorů s Tomášem Garriguem Masarykem, prvním prezidentem Československa, která reflektuje politickou situaci a myšlenky té doby.
-
-### Povídky z jedné kapsy
-- Sbírka krátkých povídek různých žánrů a námětů, které ukazují Čapkův široký literární rejstřík.
+### [[Bílá nemoc]] - 1937
+- [[Drama]], které se zaměřuje na etické otázky spojené s vědeckým výzkumem a zneužíváním jeho výsledků.

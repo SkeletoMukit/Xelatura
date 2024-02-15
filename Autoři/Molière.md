@@ -1,34 +1,42 @@
 # Molière
 ## Základní informace
-- **Jméno**: Jean-Baptiste Poquelin
-- **Datum narození**: 15. ledna 1622
-- **Datum úmrtí**: 17. února 1673
-- **Národnost**: Francouzská
-- **Povolání**: Dramatik, herec, režisér
+- **Jméno:** Jean-Baptiste Poquelin
+- **Datum narození:** 15. ledna 1622
+- **Místo narození:** Paříž, Francie
+- **Datum úmrtí:** 17. února 1673
+- **Místo úmrtí:** Paříž, Francie
+- **Příčina úmrtí:** Plicní onemocnění
+- **Národnost:** Francouzská
+- **Profese:** Dramatik, herec
+- **Žánr:** [[Komedie]], satira
 
 ## Život
-- Molière se narodil v Paříži jako syn bohatého obchodníka.
-- Studoval na prestižní škole Collège de Clermont, kde se seznámil s klasickými latinskými autory.
-- V roce 1643 založil divadelní společnost "L'Illustre Théâtre" společně s hercem Madeleine Béjartovou a jejím bratrem.
-- Jeho divadelní kariéra byla poznamenána neustálými finančními problémy a konflikty s cenzurou a církví.
-- Molière zemřel krátce po premiéře svého posledního díla "The Imaginary Invalid" (Le Malade imaginaire) na scéně, trpící záchvatem při ztvárnění hlavní role.
+- Molière se narodil jako syn pařížského stavitele královských divadel.
+- Studoval na prestižním Collège de Clermont v Paříži.
+- V roce 1643 si změnil jméno na Molière a začal se věnovat divadlu.
+- Zakládal vlastní divadelní společnosti, které často zkrachovaly.
+- Přestože byl považován za génia komedie, trpěl bídnými finančními podmínkami a byl zadlužený.
+- Molière zemřel v Paříži ve věku 51 let během představení své hry "Le Malade imaginaire" (Zaléčení smyšleného choroby).
 
 ## Dílo
 ### Tartuffe (1664)
-- Komická satira na pokrytce a pokrytectví v 17. století.
-- Vyvolala kontroverzi a byla dokonce zakázána cenzurou kvůli údajné kritice náboženství.
-
-### Misanthrop (1666)
-- Komedie, která zkoumá koncept lidské morální integrit a nesnášenlivosti.
-
-### [[Lakomec]] (1668)
-- Komický pohled na posedlost bohatstvím a chamtivost.
+- Jedna z nejznámějších Molièrových her.
+- Satirická komedie, která kritizuje pokrytectví a falešnou zbožnost.
+- Setkala se s ostrou kritikou církevních autorit a byla na čas zakázána.
 
 ### Don Juan (1665)
-- Satirické drama o svobodném a nezodpovědném Don Juanovi.
+- Další významné dílo Molièra.
+- [[Drama]], které zobrazuje slavného Dona Juana jako cynického a amorálního hrdinu.
 
-### Učená ženy (1672)
-- Komická hra, ve které Molière zpochybňuje postavení žen ve společnosti a vzdělání.
+### [[Lakomec]](1668)
+- Komická hra, která zobrazuje chamtivost a posedlost penězi.
+- Molière zde používá charaktereistický humor a absurdní situace.
 
-### Médecin malgré lui (1666)
-- Farce o nechtěném lékaři, který se dostane do absurdních situací.
+### Le Misanthrope (1666)
+- [[Komedie]], která kritizuje falešnost a pokrytectví společnosti.
+- Hlavní postava Alceste je misantrop, který nesnáší lidstvo a jeho lži.
+
+### Le Malade imaginaire (1673)
+- Poslední hra Molièra, která byla dokončena a uvedena za jeho života.
+- [[Komedie]], která se vysmívá lékařům a medicíně své doby.
+- Molière zemřel během představení této hry.

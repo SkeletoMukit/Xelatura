@@ -1,39 +1,37 @@
 # 451° Fahrenheita
-
 ## Základní informace
-- Autor: [[Ray Bradbury]]
-- Rok vydání: 1953
+- **Autor:** [[Ray Bradbury]]
+- **Rok vydání:** 1953
 
-## Literární druh, žánr a směr
-- Literární druh: Román
-- Žánr: Sci-fi, dystopie
-- Směr: Americká literatura 20. století, science fiction
+## Literární druh, žánr a směr 
+- **Literární druh:** [[Román]]
+- **Literární žánr:** [[Science fiction]]
+- **Literární směr:** Dystopie
 
-## Téma
-- Změna společnosti a role médii a informací v lidském životě.
-- Omezení svobody myšlení a slova ve společnosti.
+## Téma 
+- **Téma:** Cenzura, manipulace médií, ztráta svobody myšlení a individuality.
+- **Myšlenka:** Varování před totalitními režimy a nedostatkem kritického myšlení v masové společnosti.
 
-## Prostředí
-- Dystopická společnost v nekonkrétním americkém městě v budoucnosti.
-- Společnost ovládaná cenzurou a zákazem knih.
+## Prostředí 
+- **Prostředí:** Futuristické, dystopické město ve Spojených státech.
 
-## Kompozice
-- Chronologická vyprávění s retrospektivními prvky.
-- Převážně lineární vyprávění s několika flashbacky.
+## Kompozice 
+- chronologicky
 
-## Jazyk
-- Jasný a výstižný jazyk s důrazem na emotivní a symbolické prvky.
-- Popisy jsou bohaté na metafory a symboly.
+## Jazyk 
+- Bradburyho styl je často lyrický a evokativní.
+- Používá metafory a symboly ke zdůraznění hlavních témat.
 
-## Jazykové prvky
-- Metafory a symboly: Ohně, knihy, televize, voda.
-- Paralely s reálným světem, např. knihy symbolizují svobodu myšlení.
+## Jazykové prvky 
+- **Dialogy:** Dynamické a nabitý emocemi, často slouží k vykreslení napětí mezi postavami.
+- **Popisy:** Barevné a živé, čtenáři umožňují ponořit se do světa díla.
 
-## Postavy
-- Guy Montag: Hlavní postava, hasič, který páli knihy, později se obrací proti systému.
-- Mildred Montag: Manželka Guye, zcela pod vlivem společenských hodnot a médií.
-- Kapitán Beatty: Nadřízený Guye, zastánce režimu, ale s nejasnou minulostí.
-- Clarisse McClellan: Mladá žena, která otvírá Guyovi oči, záhadně zmizí.
+## Postavy 
+- **Guy Montag:** Hlavní protagonist, hasič, který páli knihy a postupně začíná pochybovat o tom, co dělá.
+- **Mildred Montag:** Manželka Guye, ztělesnění konformity a nedostatku empatie.
+- **Kapitán Beatty:** Vedoucí hasičů, který má v sobě schované hluboké znalosti literatury.
+- **Clarisse McClellan:** Mladá sousedka Guye, která mu otvírá oči a podněcuje ho k myšlení.
+- **Professor Faber:** Bývalý učitel literatury, který Guyovi pomáhá při jeho útěku a hledání smyslu.
 
 ## Děj
-V dystopické budoucnosti, kde je čtení knih zakázáno a hasiči mají za úkol pálení knih, se Guy Montag stává stále více znechucený svou prací a povrchním životem. Jeho setkání s mladou dívkou Clarisse McClellan ho nutí zamyslet se nad svým životem a společností kolem sebe. Když se jeho manželka pokusí spáchat sebevraždu, Guy ještě více ztrácí iluze o svém životě. Sám začne číst knihy, což je v jeho společnosti trestné. Když to odhalí jeho nadřízený, kapitán Beatty, Guy zabije Beattyho a uprchne. Přidává se ke skupině intelektuálů, kteří si chtějí zachovat literaturu a myšlení. Společnost začne válku s těmito intelektuály, ale Guy s pomocí nového přítele Grangera unikne do divočiny, kde doufá v obnovu lidského vědomí a kultury.
+Děj se odehrává ve společnosti, kde jsou knihy zakázány a všechny myšlenky jsou ovládány státem. Guy Montag je hasič, jehož úkolem je pálení knih a potlačování odlišných názorů. Jeho žena Mildred je ztělesněním konformity, zatímco jeho mladá sousedka Clarisse ho inspiruje k otázkám a reflexi. Postupně Guy začíná pochybovat o své roli a smyslu života. Poté, co ho podnítila Clarisse, začíná ukrývat knihy a hledat pravdu o světě kolem sebe. Když je odhalen, musí uprchnout před státní mocí a hledat útočiště u vědeckého profesora Fabera, který mu pomůže pochopit důležitost knih a svobody myšlení. Guy se přidává k odboji a snaží se přinést změnu ve společnosti, která je ovládána strachem a manipulací.

@@ -2,7 +2,15 @@ Vyplň mi tuto šablonu pro autora _AUTOR_. Můžeš jednotlivé položky upravi
 
 # Jméno autora
 ## Základní informace
-
+- **Jméno:**
+- **Datum narození:**
+- **Místo narození:**
+- **Datum úmrtí:**
+- **Místo úmrtí:**
+- **Příčina úmrtí**
+- **Národnost:**
+- **Profese:**
+- **Žánr**
 
 ## Život
 

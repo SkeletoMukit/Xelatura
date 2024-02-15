@@ -1,35 +1,43 @@
 # Na západní frontě klid
-| Autor | [[Erich Maria Remarque]] |
-| ---- | ---- |
-| Původní název | _Im Westen nichts Neues_ |
-| Země | Německo |
-| Jazyk | němčina |
-| Žánr | [[Klíčový román]], [[Historický román]], [[Válečný román]] |
-| Datum vydání | 1928 |
-- psáno spisovně
-- 
-## Postavy
-- Paul Bäumer – hlavní postava, vypravěč. Ve věku 19 let je donucen nastoupit do německé armády a je vyslán na západní frontu, kde zažívá děsivé důsledky války. Předtím byl Paul kreativní, vášnivý a citlivý mladík, jenž s oblibou psával poemy a upřímně miloval svou rodinu. Ovšem válka mění jeho osobnost a pohled na svět. Hrůza a děs, které na něj dennodenně doléhají, ho postupně zbavují citů, lidskosti a tradičních hodnot. Stává se z něj cynik. Cítí, že nemůže nikomu říct o svých citech. Když přichází po nějaké době domů, již si připadá jako cizinec, a uvědomuje si, že udělal chybu. Spolu s postupným umíráním jeho přátel přichází na to, že už po ničem netouží a nemá co ztratit. Válka ho zbavila veškerých snů a nadějí. Po letech války je nakonec Paul Bäumer v říjnu roku 1918 zabit během výjimečně klidného dne. Velitelova zpráva toho data obsahovala pouze jednu větu. Na západní frontě klid. Když Paul umírá, jeho obličej je neobyčejně klidný. Jako by byl rád, že dlouho očekávaný konec jeho života už přišel.
-- Albert Kropp – bývalý spolužák Paula B. Je popsán jako nejchytřejší a nejmenší ze skupiny Paulových spolužáků. Ke konci románu je Kropp raněn a podstupuje amputaci nohy. Albert a Paul se zraněnou rukou a nohou nakonec spolu skončí v katolické nemocnici. Ačkoliv chtěl Kropp původně spáchat sebevraždu, pokud mu bude odejmuta noha, kniha naznačuje, že díky silnému přátelství ji nakonec odkládá. Bäumer je po čase opět odvolán do služby. Bylo to těžké loučení.
-- Heie Westhus – vysoký a silný, povoláním kopáč rašeliny. Díky své velikosti vypadá starší než stejně starý kamarád ze školy Paul Bäumer. Má dobrý smysl pro humor. Později je během bitvy smrtelně zasažen do zad. Když ho pak Himmelstoss odtahuje do bezpečí, Bäumer vidí jeho roztahující a smršťující se plíce.
-- Fredrich Müller – bývalý spolužák Paula B. 18,5letý mladík nastupuje jako dobrovolník do německé armády. Neustále s sebou nosí své staré školní knihy a stále připomíná důležitost vzdělávání se. Dokonce si i pod palbou nepřítele opakuje fyzikální zákony. Zajímá se o dobré boty Kemmrichovy a dědí je, když na začátku románu umírá. Když byl později fatálně zasažen světlicí do břicha, své boty předává Paulu Bäumerovi.
-- Stanisław „Katcza“ Katczyński – Polák, hlava skupiny, nejlepší kamarád Paula B.. Má velmi pozitivní vliv na o 21 let mladšího Paula a jeho kolegy. V civilním životě byl švec. Postava vytváří kontrast mezi světem mladých a starších lidí za války. Zatímco starší lidé měli více rozvinutou osobnost a měli již nějaké profesní zkušenosti, pro Paula a jeho kamarády je „tvorba mrtvol“ první povolání. Katcza je známý pro svou schopnost získat jakékoliv potřebné věci, obzvláště jídlo. Na konci příběhu je zasažen šrapnelem. Paul ho táhne zpět do tábora, přitom je zasažen střepinou do týlu. Okamžitě umírá, aniž by si toho Bäumer všiml. Na tuto skutečnost ho upozorňuje až saniťák v nemocnici. Právě Katczova smrt způsobila, že Paulovi přestalo záležet na tom, zda zemře, či bude žít dál. Již dokázal žít beze strachu ze smrti.
-- Tjaden – největší jedlík skupiny, Paulův mimoškolní kamarád. Před válkou byl Tjaden zámečníkem. Díky krutému výcviku z hloubky duše nesnáší Himmelstosse. Později v knize mu odpouští. Bäumer naráží na to, že ačkoliv sní, na co přijde, tak se mu stále udržuje jeho štíhlá postava. Další osudy Tjadena nejsou známy. Znovu se objeví až v knize Cesta zpátky.
-- Kantorek – tělocvikář Paula, Kroppa, Leera, Müllera a Böhma. Moc nad studenty si vyloženě užívá. Jedná se o silného zastánce války, který celou třídu přiměl, aby narukovala do armády. Paradoxně mezi 20 studenty jediný Joseph Böhm, který mu vzdoruje, umírá první. Kantorek sám je pokrytec. Oháněje se patriotismem do bojů nevstupuje. Později je sám povolán a zažívá během výcviku dril jednoho ze svých bývalých studentů, jenž se nechal inspirovat dřívějšími hodinami tělesné výchovy.
-- Peter Leer – bývalý spolužák Paula B. Jedná se o inteligentního vojáka populárního především mezi ženami. Když on a jeho spolužáci potkávají tři francouzské ženy, dokáže on jako první jednu svést. Leer je nakonec zasažen stejným šrapnelem jako Bertinck. Záhy poté umírá na vykrvácení.
-- Bertinck – velitel Baumerovy skupiny. Jeho muži k němu mají velký respekt a on k nim také. Umírá stejným šrapnelem jako Leer.
-- Franz Kemmerich – bývalý spolužák Paula B., 19letý mladík, jenž umírá na začátku románu. Je střelen do nohy, kterou mu následně musejí amputovat. Nakonec umírá. Jeho boty dědí Müller.
-- Josef Hamacher – pacient v katolické nemocnici spolu s Albertem Kroppem a Paulem Baumerem. Má potvrzení, že má zranění hlavy, což mu umožňuje dělat, co si zamane.
- - Detering – sedlák, škrt, myslí na svou usedlost a svou ženu. Nechápe, proč používají koně na frontě. Ty raněné se snaží ze zákopů zabíjet. Později utíká ke své rodině. Je chycen vojenskou policií, souzen dle stanného práva a poté už o něm nikdo nikdy neslyšel.
-- Himmelstoss – krutý, sadistický a bezohledný velitel družstva při výcviku. Kaprál(Desátník). Před válkou byl pošťákem. Z románu nepřímo vyplývá, že Himmelstoss byl v době míru délesloužící voják - poddůstojník, který po 12 letech služby dostal státní zaměstnání u pošty. V době války byl aktivován. Spolubojovník Paula B. Haie Westhus právě o takové kariéře a zabezpečení po válce sní. Později se Himmelstoss dostává na frontu, což dává Bäumerovi a ostatním příležitost k pomstě. Paradoxně je sám zbabělec. Později se s ním usmiřují. Ve válce padl.
+## Základní informace
+- **Autor:** [[Erich Maria Remarque]]
+- **Rok vydání:** 1929
+
+## Literární druh, žánr a směr 
+- **Literární druh:** [[Román]]
+- **Literární žánr:** Antiválečná literatura, Psychologický román
+- **Literární směr:** Modernismus
+
+## Téma 
+- **Téma:** Hrůzy války, Ztráta nevinnosti, Odcizení od společnosti
+- **Myšlenka:** Válka ničí nejen těla, ale i duše a lidskou morálku.
+
+## Prostředí 
+- **Prostředí:** První světová válka, Západní fronta
+
+## Kompozice 
+- Vyprávěno z pohledu mladého německého vojáka Paula Bäumera, jehož perspektiva umožňuje čtenáři nahlédnout do hrůz války.
+
+## Jazyk 
+- Realistický, sarkastický, emotivní
+
+## Jazykové prvky 
+- Využití vojenského slangového slovníku
+- Často se vyskytující přímá řeč, která pomáhá vykreslit emocionální stav postav
+
+## Postavy 
+- **Paul Bäumer:** Hlavní postava, mladý německý voják, jehož pohled na svět se mění kvůli hrůzám války.
+- **Stanislaus Katczinsky (Kat):** Zkušený voják a blízký přítel Paula, symbol solidarity a přátelství v nejtemnějších časech.
+- **Albert Kropp:** Další člen Paulovy jednotky, jehož postavení před válkou bylo podobné Paulově.
+- **Müller:** Další člen jednotky, pragmatický a praktický voják.
+- **Tjaden:** Člen jednotky se silným hladovým komplexem.
+- **Haie Westhus:** Obří a tichý člen jednotky, který trpí hlubokou fyzickou bolestí.
 
 ## Děj
-Kniha vypráví příběhy německého vojáka Paula Bäumera na západní frontě za první světové války.
+[[Román]] "Na západní frontě klid" sleduje osudy Paula Bäumera a jeho spolubojovníků během První světové války. Příběh začíná, když se Paul a jeho přátelé dobrovolně přihlásí k vojenské službě s nadšením a očekáváním dobrodružství. Avšak brzy se setkávají s nelidskými podmínkami frontové linie, neustálým hladem a úmornými podmínkami války.
 
-Paul spolu se svými kamarády Müllerem, Kroppem, Kemmerichem a Leerem pod silným psychickým nátlakem okolí, zvláště třídního profesora Kantorka, ukončí studium na gymnáziu a dobrovolně se přihlásí k výcviku s tím, že bude brzy odvelen na frontu.
+Postavy se postupně dostávají do konfliktu s velením a utvářejí si vlastní způsoby, jak přežít. Paul ztrácí svou nevinnost a idealismus, když sleduje smrt svých přátel a zažívá hrůzy války na vlastní kůži. Jedinou útěchou mu zůstává přátelství s Katem a dalšími spolubojovníky.
 
-Paul popisuje vše od výcviku plného šikany (desátník Himmelstoss), války, až po dovolenou a život v kasárnách. Postupem času jeho nadšení pro válku opadá a jeho kamarádi jeden po druhém umírají. Všechny scény jsou líčeny z pohledu obyčejného bezvýznamného vojáka, a to do nejmenších detailů a velmi naturalisticky. Na začátku příběhu mu umírá jeho přítel Kemmerich, kterého zná už od dětství. Při takových situacích se Paul zabírá do myšlenek a vzpomíná na staré časy. Potom je zas povolán do zákopů a líčí průběh bitvy, své pocity a příběhy, které tam zažil. Jednoho dne ale dostane na dva týdny propustku a jede domů. Tam zjišťuje, že jeho maminka má rakovinu. Zároveň registruje úplné odtržení od běžného života a psychické důsledky války – je jí zcela deformován. Uvědomuje si také, že se změnil i on sám. Válku už bere jako samozřejmost, a proto už nedokáže komunikovat s lidmi a nebaví ho jeho dřívější zájmy. Postupně se začíná psychicky hroutit.
+Když válka pokračuje, postavy procházejí různými etapami fyzického a duševního vyčerpání. Paul pozoruje, jak se jeho spolubojovníci mění, jak se ztrácí jejich lidskost a jak jsou nahrazeni strojem války. Přestože se snaží najít smysl a důstojnost ve svém údělu vojáka, nakonec konstatuje, že válka je zbytečná a ničí všechno, co je lidské.
 
-Když jeho rota dostala za úkol vyklidit jednu vesnici, je zraněn on i jeho kamarád Kropp. Díky tomu se dostali do nemocnice, kde zase vypráví svůj příběh. Kroppovi amputují nohu a Paul je po chvíli zase povolán do zákopů. Uprostřed bitvy se setká s posledním žijícím kamarádem Katczinskym (čtyřicetiletý Polák, který ho doprovází téměř celou knihu). Toho ale zraní, v třetí linii zákopů, (zde je právě absurdnost smrti ve válce patrná. Katczinský prošel celou válkou a v týlu ho zraní a zabije střepina náhodného výstřelu z děla) střepina granátu na hlavě a Paul ho nese týlovou oblastí k polní nemocnici. Katczinsky nakonec umírá Bäumerovi na zádech a do nemocnice je donesen už jako mrtvý. To Bäumer neví a až saniťák v nemocnici mu říká, že námaha s nesením byla zbytečná, protože jeho kamarád je už dávno mrtvý. Paula smrt Katczinského velice zasáhne. Na podzim roku 1918 dostává 14 dní volna, během nichž přemýšlí o válce a o návratu do normálního života. Kniha končí Paulovou smrtí na frontě. „Padl v říjnu 1918, v den, jenž byl na celém bojišti tak tichý, že se zpráva vrchního velitelství omezila na větu: Na západní frontě byl klid.“ — Citováno z českého překladu   
-
-## Význam
+[[Román]] končí tragicky, když Paul umírá na konci války. Jeho smrt je symbolem ztráty naděje a zničení lidského života a snažení se najít klid na západní frontě je marné.

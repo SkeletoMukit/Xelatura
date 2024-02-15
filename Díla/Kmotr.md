@@ -4,7 +4,7 @@
 - **Rok vydání:** 1969
 
 ## Literární druh, žánr a směr 
-- **Literární druh:** Román
+- **Literární druh:** [[Román]]
 - **Žánr:** Krimi, drama
 - **Literární směr:** Realismus
 

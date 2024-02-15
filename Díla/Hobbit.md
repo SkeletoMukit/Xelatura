@@ -1,56 +1,61 @@
 # Hobit aneb cesta tam a zase zpátky
-
 ## Základní informace
-- Autor: [[John Ronald Reuel Tolkien |J.R.R. Tolkien]] 
-- Rok vydání: 1937
-- Původní jazyk: Angličtina
+- **Autor:** J.R.R. Tolkien
+- **Rok vydání:** 1937
 
-## Literární druh, žánr a směr
-- Literární druh: Román
-- Žánr: Fantasy, dobrodružná literatura
-- Směr: Epický
+## Literární druh, žánr a směr 
+- **Literární druh:** [[Román]]
+- **Literární žánr:** [[Fantasy]]
+- **Literární směr:** 
 
-## Téma
-- Téma dobrodružné cesty, odvahy a přátelství
-- Boj mezi dobrem a zlem
-- Touha po nalezení pokladu
+## Téma 
+- **Téma:** Dobrodružství, přátelství, síla odvahy a loajality
+- **Myšlenka:** I malí jedinci mohou mít velký vliv a odvahu v nečekaných situacích.
 
-## Prostředí
-- Středozemě, konkrétně oblastí známá jako Divočina
-- Malá zeměníčí vesnice, lesy, hory, jeskyně
-- Dračí doupě na hoře Erebor
+## Prostředí 
+- **Prostředí:** Středozemě, zejména krajina Doupě a pestrá příroda, ale také jeskyně, lesy, hory, jezero a město.
 
-## Kompozice
-- Třídílná struktura: úvod, hlavní část, závěr
-- Epické prvky, jako je cesta hrdiny za pokladem
-- Integrované pohádkové motivy
+## Kompozice 
+- Příběh je rozdělen do více částí, které tvoří jednotlivé fáze hobití cesty.
+- **Úvod:** Představení Bilba Pytlíka a jeho pohodlného života v Doupěti.
+- **Výzva:** Příchod čaroděje Gandalfa a trpaslíka dvanácti Sauronových
+- **Cesta:** Skupina putuje skrz různorodé krajiny, setkávají se s elfy, skřety, pavouky, medvědy a dalšími bytostmi.
+- **Konflikt:** Hlavním konfliktem je střet s drakem Šmakem, který stráží poklad pod horou Samotou.
+- **Rozuzlení:** Bitva o Erebor a návrat do Doupěte.
+- **Závěr:** Bilbo se vrátí domů, ale změněn z dobrodružství.
 
-## Jazyk
-- Barvitý a sugestivní
-- Používání archaického jazyka pro vytvoření autentičnosti
-- Jednoduchá a přístupná forma vyprávění
+## Jazyk 
+- Tolkien vytváří detailní a poutavý jazyk s různými nářečími pro různé postavy a druhy.
+- Jazyk je často archaický a formální, což přispívá k vytvoření autentického fantasy prostředí.
 
-## Jazykové prvky
-- Jazykové prvky staré angličtiny pro názvy a dialogy postav (např. elfské jméno "Thranduil")
-- Vynález vlastních jazyků (např. klingonština, sindarština)
+## Jazykové prvky 
+- **Elvština:** Tolkien vytvořil slovník a gramatiku pro elfský jazyk, který se občas objevuje v dialogech postav.
+- **Skřetí nářečí:** Skřeti mluví drsným, hrubým jazykem, který má v sobě temný nádech.
+- **Trpasličtina:** Trpaslíci mají svůj vlastní dialekt, který je hrubší a méně uhlazený než elvština.
 
-## Postavy
-- Bilbo Pytlík - hlavní hrdina, hobit, který se vydává na dobrodružnou výpravu.
-- Gandalf - moudrý čaroděj, který inicioval Bilbovo dobrodružství.
-- Thorin Pavéza - trpaslík, vůdce výpravy směřující k dobývání Ereboru.
-- Trpaslíci: Fili, Kili, Balin, Dwalin, Bifur, Bofur, Bombur, Dori, Nori, Ori, Oin, Gloin - členové výpravy, kteří se vydávají s Bilbem na cestu.
-- Beorn - proměnlivý poustevník, který pomáhá výpravě v boji proti skřetům a vlkům.
-- Skřeti, vlci, elfové, lidé a další bytosti, se kterými se postavy setkávají na své cestě.
+## Postavy 
+- **Bilbo Pytlík:** Hlavní postava, která se vydává na nečekané dobrodružství.
+- **Gandalf:** Mocný čaroděj, který Bilba povzbuzuje k dobrodružství.
+- **Thorin Pavéza:** Trpasličí princ, který vede skupinu trpaslíků na cestě k Ereboru.
+- **Skřeti:** Temní protivníci, kteří se snaží zabránit Bilbovi a trpaslíkům v dosažení cíle.
+- **Elfové:** Mystické bytosti, které pomáhají Bilbovi a jeho společníkům na jejich cestě.
+- **Šmak:** Obávaný drak, který vládne pokladům pod horou Samotou.
 
 ## Děj
-Bilbo Pytlík, klidný a pohodlný hobit, se jednoho dne ocitne v nečekaném dobrodružství. K jeho velkému překvapení a neochotě je vybrán skupinou trpaslíků, vedenou Thorinem Pavézou, aby jim sloužil jako lomící dobrodruh na jejich výpravě k Osamělé hoře.
+### Úvod
+Bilbo Pytlík, pohodlný hobit žijící v Doupěti, je vyrušen ze svého klidného života příchodem čaroděje Gandalfa a společnosti trpaslíků, kteří hledají dobrodružství a ztracené trpasličí poklady pod horou Samotou.
 
-Thorinova skupina trpaslíků touží získat zpět království Erebor, které bylo dobyto drakem Šmakem. Pod Bilbovým vedením a se záhadným prstýnkem, který Bilbo na své cestě najde, se skupina setká s různými nebezpečími a bytostmi, jako jsou skřeti, pavouci, lesní elfové a Bard Lukomor, muž z Města jezdců na jezdeckých ořích.
+### Výzva
+Gandalf přesvědčí Bilba, aby se připojil k expedici jako zloděj. Bilbo, přestože je zprvu váhavý, souhlasí a vydává se na cestu s trpaslíky v čele s Thorinem Pavézou.
 
-Klíčovým okamžikem je Bilbovo setkání s Gollumem, podivnou bytostí, která vlastní prstýnek s neobvyklou mocí stát se neviditelným. Bilbo vytasí tento prstýnek a stane se klíčovým prvkem jeho přežití v několika situacích.
+### Cesta
+Skupina putuje přes různé nebezpečné krajiny, setkávají se s elfy, skřety a dalšími bytostmi. Bilbo se ukazuje jako nečekaně statečný a chytrý, což mu umožní překonat mnohá nebezpečí.
 
-Když skupina konečně dosáhne Osamělé hory, Thorin a jeho trpaslíci bojují s drakem Šmakem a nakonec získají zpět své království. Nicméně Thorin je smrtelně zraněn a na smrtelné posteli lituje své pýchy.
+### Konflikt
+Hlavním konfliktem je střet s drakem Šmakem, který chrání poklady pod horou Samotou. Bilbo se mu podaří získat dračí kámen a vyřešit věci tak, aby trpaslíci mohli získat své poklady zpět.
 
-Bilbo se vrací do Kraje s bohatstvím, které si přivlastnil ze Šmakovy jeskyně, ale změní se v něm i jeho domov. Přestože je původně považován za podivína, nakonec získá respekt a uznání své komunity.
+### Rozuzlení
+Bitva o Erebor probíhá a trpaslíci bojují za svou domovinu. Nakonec Thorin umírá na následky boje, ale Bilbo a několik trpaslíků přežijí a mají možnost se vrátit domů.
 
-Takto končí příběh Hobbita, který sloužil jako preludium ke knize Pán prstenů, která dějově následuje a je mnohem rozsáhlejší.
+### Závěr
+Bilbo se vrací do Doupěte jako změněný hobit. Sice touží po svém pohodlném životě, ale zároveň touží po dalších dobrodružstvích.
