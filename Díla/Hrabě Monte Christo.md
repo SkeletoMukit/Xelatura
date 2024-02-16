@@ -1,4 +1,4 @@
-# **Hrabě Monte Christo**
+# Hrabě Monte Christo
 ## Základní informace
 - Autor: [[Alexandre Dumas starší]]
 - Rok vydání: 1844-1846 (původně jako román v časopisech)
