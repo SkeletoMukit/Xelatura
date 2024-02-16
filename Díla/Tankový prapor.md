@@ -1,4 +1,4 @@
-# Název díla: Tankový prapor
+# Tankový prapor
 
 ## Základní informace
 - **Autor:** [[Josef Škvorecký]]
