@@ -1,5 +1,3 @@
-Vyplň mi tuto šablonu pro dílo _DÍLO_. Můžeš jednotlivé položky upravit, odebrat či přidat. Snaž se psát v bodech, kromě děje ten rozepiš do odstavců, tak aby jsem znal celý příběh díla. Zvýrazňuj důležité body a slova: 
-
 # Název díla
 ## Základní informace
 - **Autor:**
@@ -21,6 +19,7 @@ Vyplň mi tuto šablonu pro dílo _DÍLO_. Můžeš jednotlivé položky upravit
 
 
 ## Jazyk 
+- **Forma:**
 
 
 ## Jazykové prvky 
