@@ -4,9 +4,10 @@
 - **Rok vydání:** 1953
 
 ## Literární druh, žánr a směr 
-- **Literární druh:** [[Román]]
-- **Literární žánr:** [[Science fiction]]
-- **Literární směr:** Dystopie
+- **Literární druh:** [Epika](Epika.md)
+- **Literární žánr:** [Román](Román.md)
+- **Literární směr:** ?
+- **Umělecký žánr:** [Science fiction](Science%20fiction.md), Anti-utopie
 
 ## Téma 
 - **Téma:** Cenzura, manipulace médií, ztráta svobody myšlení a individuality.
