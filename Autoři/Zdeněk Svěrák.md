@@ -1,5 +1,4 @@
-# Jméno autora
-## Zdeněk Svěrák
+# Zdeněk Svěrák
 
 ## Základní informace
 - **Jméno:** Zdeněk Svěrák
