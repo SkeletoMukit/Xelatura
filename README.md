@@ -21,7 +21,7 @@ Na Xelatuře se podílý studenti třídy IE4 ročníku 2023/2024. Jsme otevřen
 
 ### Formátování
 
-Poznámky se píší v programu Obsidian, takže se udržují [pravidla formátování pro obsidian](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax) a tím pádem i [pravidla pro formátování Markdownu](https://www.markdownguide.org/basic-syntax/). Jedinou změnou oproti formátování Obsidianu je používání Markdown-odkazů namísto Wiki-odkazů, to jde změnit v nastavení Obsidianu. ![](Pasted%20image%2020240315185813.png)
+Poznámky se píší v programu Obsidian, takže se udržují [pravidla formátování pro obsidian](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax) a tím pádem i [pravidla pro formátování Markdownu](https://www.markdownguide.org/basic-syntax/). Jedinou změnou oproti formátování Obsidianu je používání Markdown-odkazů namísto Wiki-odkazů, to jde změnit v nastavení Obsidianu. ![](Nastavení%20formátování%20odkazů.png)
 
 ### Struktura souborů
 
