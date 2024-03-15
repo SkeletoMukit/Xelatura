@@ -1,4 +1,6 @@
-# Xelovi poznámky z literatury
+# Xelatura
+Xelovy poznámky z literatury
+
 ## !!! Ještě nezkorektováno !!!
 
 Poznámky z literatury tvořené v programu Obsidian.  
