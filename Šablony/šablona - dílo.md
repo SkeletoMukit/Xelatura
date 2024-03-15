@@ -19,7 +19,7 @@
 
 
 ## Jazyk 
-- **Forma:**
+- **Vyprávěcí forma:**
 
 
 ## Jazykové prvky 

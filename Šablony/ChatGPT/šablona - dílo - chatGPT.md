@@ -21,7 +21,7 @@ Vyplň mi tuto šablonu pro dílo _DÍLO_. Můžeš jednotlivé položky upravit
 
 
 ## Jazyk 
-- **Forma:**
+- **Vyprávěcí forma:**
 
 
 ## Jazykové prvky 
