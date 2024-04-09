@@ -33,3 +33,5 @@
 - [[Povídka]] napsaná v roce 1834.
 - Zachycuje život na venkově a osudy venkovských lidí.
 - Odráží Máchův zájem o sociální problémy a přírodní prostředí.
+
+### Marinka

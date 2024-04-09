@@ -38,4 +38,8 @@
 - Soubor 154 sonetů, které se pohybují od témat lásky až po filozofické úvahy.
 
 ### Mnoho zlosti pro nic
-- Komická hra o zmatcích lásky a omylůch, zahrnující složité intriky a záměny totožnosti.
+- Komická hra o zmatcích lásky a omylech, zahrnující složité intriky a záměny totožnosti.
+
+### Zkrocení zlé ženy
+
+### Jindřich III.

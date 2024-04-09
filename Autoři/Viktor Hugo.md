@@ -1,14 +1,12 @@
-# Jméno autora
-
+# Viktor Hugo
 ## Základní informace
-
 - **Jméno:**
 - **Datum narození:**
 - **Místo narození:**
 - **Datum úmrtí:**
 - **Místo úmrtí:**
-- **Příčina úmrtí:**
-- **Národnost:**
+- **Příčina úmrtí**
+- **Národnost:** Francouzská
 - **Profese:**
 - **Žánr:**
 
@@ -16,3 +14,6 @@
 
 
 ## Dílo
+### Chrám Matky Boží v Paříži
+
+### Bídníci

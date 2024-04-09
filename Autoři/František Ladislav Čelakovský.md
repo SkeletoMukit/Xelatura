@@ -1,13 +1,11 @@
-# Jméno autora
-
+# František Ladislav Čelakovský
 ## Základní informace
-
 - **Jméno:**
 - **Datum narození:**
 - **Místo narození:**
 - **Datum úmrtí:**
 - **Místo úmrtí:**
-- **Příčina úmrtí:**
+- **Příčina úmrtí**
 - **Národnost:**
 - **Profese:**
 - **Žánr:**
@@ -16,3 +14,4 @@
 
 
 ## Dílo
+### Ústní lidová slovesnost

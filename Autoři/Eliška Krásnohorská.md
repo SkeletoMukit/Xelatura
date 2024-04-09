@@ -1,4 +1,4 @@
-# Jméno autora
+# Eliška Krásnohorská
 
 ## Základní informace
 
