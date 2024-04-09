@@ -9,7 +9,7 @@ Vyplň mi tuto šablonu pro autora _AUTOR_. Můžeš jednotlivé položky upravi
 - **Místo narození:**
 - **Datum úmrtí:**
 - **Místo úmrtí:**
-- **Příčina úmrtí**
+- **Příčina úmrtí:**
 - **Národnost:**
 - **Profese:**
 - **Žánr:**
