@@ -17,7 +17,7 @@ Xelatura je kolekce poznámek z literatury, psané v Obsidianu, na úrovni matur
 
 ## Kolaborace
 
-Na Xelatuře se podílý studenti třídy IE4 ročníku 2023/2024. Jsme otevřeni pull requestům tady na GitHubu od ostatních lidí.
+Na Xelatuře se podílý studenti SOSVELu třídy IE4 ročníku 2023/2024. Jsme otevřeni pull requestům tady na GitHubu od ostatních lidí.
 
 ### Formátování
 
