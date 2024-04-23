@@ -27,7 +27,7 @@ Přidělenci - kdo pracuje/pracoval na úkolu
 | psané ě/je/ně, ú/ů, s/z                               | 1        |
 | psaní velkých písmen                                  | 1        |
 | zkratky a značky a hranice slov                       | 2        |
-| slovoyvorba                                           | 1        |
+| slovotvorba                                           | 1        |
 | tvar slova                                            | 1        |
 | slovní druhy                                          | 1        |
 | mluvnické kategorie jmen - pády                       | 1        |
