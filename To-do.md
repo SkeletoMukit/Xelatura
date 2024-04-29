@@ -51,7 +51,7 @@ Přidělenci - kdo pracuje/pracoval na úkolu
 | Úkol        | Priorita | Přidělenci |
 | ----------- | -------- | ---------- |
 | Hláskosloví | 1        | Xela       |
-|             |          |            |
+| psaní ě/je/ně, ú/ů, s/z | 1        | Sajbor           |
 |             |          |            |
 
 ## Hotovo
