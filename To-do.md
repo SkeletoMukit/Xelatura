@@ -52,7 +52,6 @@ Přidělenci - kdo pracuje/pracoval na úkolu
 | Úkol        | Priorita | Přidělenci |
 | ----------- | -------- | ---------- |
 | Hláskosloví | 1        | Xela       |
-| psaní i/y   | 1        | Sajbor     |
 |             |          |            |
 |             |          |            |
 
@@ -61,6 +60,7 @@ Přidělenci - kdo pracuje/pracoval na úkolu
 | Úkol            | Priorita | Přidělenci |
 | --------------- | -------- | ---------- |
 | Jazyk           | 2        | Xela       |
+| psaní i/y       | 1        | Sajbor     |
 | Jazyková rodina | 1        | Xela       |
 | Úvaha           | 1        | Xela       |
 | Vypravování     | 1        | Xela       |
