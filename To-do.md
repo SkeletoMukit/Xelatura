@@ -52,7 +52,7 @@ Přidělenci - kdo pracuje/pracoval na úkolu
 | Úkol        | Priorita | Přidělenci |
 | ----------- | -------- | ---------- |
 | Hláskosloví | 1        | Xela       |
-|             |          |            |
+| psaní i/y   | 1        | Sajbor     |
 |             |          |            |
 |             |          |            |
 
