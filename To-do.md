@@ -23,7 +23,6 @@ Přidělenci - kdo pracuje/pracoval na úkolu
 | Májovci, Ruchovci, Lumírovci                          | 3        |
 | Národní obrození                                      | 3        |
 | Romantismus                                           | 3        |
-| psaní i/y                                             | 1        |
 | psané ě/je/ně, ú/ů, s/z                               | 1        |
 | psaní velkých písmen                                  | 1        |
 | zkratky a značky a hranice slov                       | 2        |
