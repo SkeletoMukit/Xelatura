@@ -49,3 +49,7 @@ Poslední válečná zima a maloměstské nádraží poblíž hranic tvoří kul
 - **Sexuální frustrace:** Milošova osobní strast
 - **Nacistické transporty:** Důvod Milošoby akce
 - **Smrt:** Osud Miloše Hrmy
+
+## Pomocné zdroje
+
+![](https://youtu.be/SQaX-4TGvf8?si=TBz75KK3HkUmV43p)

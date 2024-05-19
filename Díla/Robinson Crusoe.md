@@ -37,7 +37,7 @@
 ## Postavy 
 
 - **Robinson Crusoe:** Hlavní postava, mladý muž toužící po dobrodružství, který se ocitne na opuštěném ostrově a musí se naučit přežít.
-- **Friday:** Název domorodce, kterého Robinson zachrání a stane se jeho věrným pomocníkem.
+- **Pátek:** Název domorodce, kterého Robinson zachrání a stane se jeho věrným pomocníkem.
 - **Další vedlejší postavy:** Například otci, matka, kapitán, lodník, pašerák apod.
 
 ## Děj
@@ -46,8 +46,12 @@
 
 Zde začíná jeho dlouhý boj o přežití. První období je plné zoufalství a osamělosti. Robinson se musí naučit základním dovednostem pro přežití, jako je stavba přístřeší, hledání potravy a obrana před nebezpečím. Postupem času si vytvoří pohodlnější život na ostrově, kde se stane vládcem vlastní říše.
 
-Jednoho dne zachrání domorodce, kterému dá jméno **Friday**, a spřátelí se s ním. Friday se stane jeho věrným druhem a pomocníkem. Společně řeší různé výzvy a překážky, které na ostrově potkávají.
+Jednoho dne zachrání domorodce, kterému dá jméno **Pátek**, a spřátelí se s ním. Pátek se stane jeho věrným druhem a pomocníkem. Společně řeší různé výzvy a překážky, které na ostrově potkávají.
 
 Po mnoha letech na ostrově zachrání skupinu námořníků, kteří připluli na bárce. Robinson se nakonec rozhodne opustit ostrov a vrátit se do civilizace, kde se setkává se svými příbuznými a dozvídá se o světě, který se během jeho pobytu na ostrově změnil.
 
 Dílo končí s Robinsonovým návratem do Anglie a jeho pokusem o obnovení normálního života po dobrodružství na opuštěném ostrově.
+
+## Pomocné zdroje
+
+![](https://www.youtube.com/watch?v=kXbqop1lZvQ)

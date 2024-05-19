@@ -46,3 +46,7 @@
 ## Děj
 
 Mladík Vilém a dívka Jarmila, zamilovaní do sebe, prožívají šťastné chvíle v Májové noci, kdy příroda kvete. Jejich láska je popsána jako plamen, plný vášně a radosti. Avšak dojde ke tragickému zvratu, kdy Jarmila náhle umírá, což zlomí Vilémovo srdce. Dílo končí autorovým vyjádřením nad krásou, ale i krutostí lásky a nevyhnutelností smrti. Máj se tak stává jakousi alegorií krátkosti lidského života a nevyhnutelnosti smrti.
+## Pomocné zdroje
+
+
+![Na potítku - Máj](https://www.youtube.com/embed/BaAfJCagzh0?)

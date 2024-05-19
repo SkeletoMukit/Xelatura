@@ -46,3 +46,9 @@
 Spalovač mrtvol sleduje příběh Karla Kopfrkingla, pracovníka krematoria během nacistické okupace. V úvodní situaci je Karel vnímán jako obyčejný pracovník, ale postupně začíná adoptovat nacistickou ideologii. Vývoj děje ukazuje jeho postupné stávání se strůjcem smrti a jeho zapojení do perzekuce nevinných lidí.
 
 Vrcholem příběhu je Kopfrkinglův plný přechod na stranu nacistického režimu, kde aktivně pomáhá při deportacích a perzekucích. Závěr příběhu pak odhaluje následky jeho činů, kdy se postava setkává se svou vlastní morální zkázou a dochází k tragickému závěru. Celý příběh je vystaven v atmosféře beznaděje a temnoty, což podporuje hlavní témata díla týkající se dehumanizace a morální zkázy jednotlivce v extrémních podmínkách totalitního režimu.
+
+## Pomocné zdroje
+
+![](https://youtu.be/jIjtzOcoFsY?si=nJp7bjswzcbl9qqS)
+
+![](https://www.youtube.com/watch?v=c7NJ2d3leV0)

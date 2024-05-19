@@ -46,3 +46,7 @@
 Děj začíná ve Veroně, kde se Romeovi a Julie poprvé setkávají a okamžitě se do sebe zamilují. Jejich láska je však komplikována tím, že pocházejí z rodů, které jsou v dlouhodobé feudální rivality. Přes protesty svých rodin se Romeus a Julie tajně vezmou za manžele. 
 
 Konflikt mezi rody se vyhrotí, když Romeo zabil Julieina bratrance Tybalta v souboji. Romeo je nucen uprchnout a Julie se v zoufalství uchýlí k Friar Laurenceovi, který vymyslí plán, jak zachránit jejich lásku. Plán ale selže, ačkoli je Romeo informován o plánu, mylně předpokládá, že Julie je mrtvá, a páchá sebevraždu. Když Julie zjistí, co se stalo, také spáchá sebevraždu. Jejich smrt přináší pokoj mezi jejich rodinami, ale za hroznou cenu.
+
+## Pomocné zdroje:
+
+![Na potítku - Romeo a Julie](https://www.youtube.com/watch?v=eqILtkQ4seI)
