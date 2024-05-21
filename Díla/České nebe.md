@@ -2,13 +2,13 @@
 
 ## Základní informace
 
-- **Autoři:** Zdeněk Svěrák a Ladislav Smoljak
+- **Autoři:** [Zdeněk Svěrák](Zdeněk%20Svěrák.md) a [Ladislav Smoljak](Ladislav%20Smoljak.md)
 - **Premiéra:** 28. října 2008 (Žižkovské divadlo Járy Cimrmana)
 
 ## Literární druh, žánr a směr
 
 - **Literární druh:** Divadelní hra
-- **Literární žánr:** Komedie, satira, absurdní drama
+- **Literární žánr:** [Komedie](Komedie.md), satira, absurdní [Drama](Drama.md)
 - **Literární směr:** Česká postmoderní divadelní tvorba
 
 ## Téma
@@ -26,7 +26,7 @@
 
 ## Jazyk
 
-- **Jazyk:** Český jazyk
+- **[Jazyk](Jazyk.md):** Český [Jazyk](Jazyk.md)
 - **Styl:** Humorný, satirický, využívající archaismy a historické odkazy
 
 ## Jazykové prvky
@@ -38,10 +38,10 @@
 ## Postavy
 
 - **Svatý Václav:** Patron českých zemí, symbol národní identity a ochrany.
-- **Jan Amos Komenský:** Velikán české pedagogiky, známý jako "učitel národů".
+- **[Jan Amos Komenský](Jan%20Amos%20Komenský.md):** Velikán české pedagogiky, známý jako "učitel národů".
 - **Praotec Čech:** Mýtická postava zakladatele českého národa.
 - **Jan Hus:** Významný český reformátor a kazatel.
-- **Karel Havlíček Borovský:** Český novinář, básník a politik.
+- **[Karel Havlíček Borovský](Karel%20Havlíček%20Borovský.md):** Český novinář, básník a politik.
 - **Babička:** Postava z románu Boženy Němcové, představující tradiční hodnoty a moudrost.
 - **Josef Václav Radecký z Radče:** Slavný rakouský vojevůdce českého původu.
 - **Miroslav Tyrš:** Spoluzakladatel tělovýchovné organizace Sokol.
@@ -53,10 +53,10 @@ Před samotným představením je tradiční úvodní seminář, který diváků
 
 ### Hra samotná
 #### První část
-Děj začíná v nebeské říši, kde Svatý Václav, Jan Amos Komenský a Praotec Čech tvoří Českou nebeskou komisi. Tato komise se schází, aby diskutovala o budoucnosti českého národa během první světové války. Stávající členové komise se rozhodnou rozšířit své řady o nové členy, aby získali více pohledů a posílili svou schopnost vést národ správným směrem.
+Děj začíná v nebeské říši, kde Svatý Václav, [Jan Amos Komenský](Jan%20Amos%20Komenský.md) a Praotec Čech tvoří Českou nebeskou komisi. Tato komise se schází, aby diskutovala o budoucnosti českého národa během první světové války. Stávající členové komise se rozhodnou rozšířit své řady o nové členy, aby získali více pohledů a posílili svou schopnost vést národ správným směrem.
 
 #### Příchod nových členů
-Do komise jsou přizváni Jan Hus, Karel Havlíček Borovský, Babička a Josef Václav Radecký z Radče. Každá z těchto postav přináší své unikátní perspektivy a vlastnosti. Jan Hus zastává konzervativní názory a často se vyhýbá diskusím o ohni, zatímco Karel Havlíček Borovský je známý svou kritikou a ironickými poznámkami. Babička přináší do diskuse tradiční moudrost a laskavost, zatímco Radecký přidává vojenský pohled.
+Do komise jsou přizváni Jan Hus, [Karel Havlíček Borovský](Karel%20Havlíček%20Borovský.md), Babička a Josef Václav Radecký z Radče. Každá z těchto postav přináší své unikátní perspektivy a vlastnosti. Jan Hus zastává konzervativní názory a často se vyhýbá diskusím o ohni, zatímco [Karel Havlíček Borovský](Karel%20Havlíček%20Borovský.md) je známý svou kritikou a ironickými poznámkami. Babička přináší do diskuse tradiční moudrost a laskavost, zatímco Radecký přidává vojenský pohled.
 
 #### Diskuse a rozhodování
 Hlavní část hry se skládá z dialogů mezi těmito historickými postavami, které se snaží najít nejlepší cestu pro český národ. Diskutují o různých historických událostech, hodnotách a ideálech, které definují českou národní identitu. Komické situace vznikají z rozdílných názorů a přístupů jednotlivých postav. Postavy si často dělají legraci jedna z druhé, parodují své vlastní historické role a vytvářejí tak komický kontrast mezi vážností témat a lehkostí jejich podání.
@@ -68,4 +68,4 @@ Vrchol hry nastává, když komise musí rozhodnout o tom, kdo by měl být nov�
 Hra končí konsenzem mezi postavami, které se shodují na základních hodnotách a ideálech, jež by měly vést český národ k lepší budoucnosti. Poselství je pozitivní a optimistické, zdůrazňující význam národní identity a solidarity. Komise je připravena čelit budoucím výzvám s nově nabytým odhodláním a jednotou.
 
 ## Shrnutí
-"České nebe" je satirickou a humornou reflexí české národní identity a historie. Autoři Zdeněk Svěrák a Ladislav Smoljak využívají historické postavy k tomu, aby komicky a kriticky reflektovali českou národní povahu a hodnoty. Hra je bohatá na humor, ironii a inteligentní dialogy, což z ní činí jedno z nejvýznamnějších děl české postmoderní divadelní tvorby.
+"České nebe" je satirickou a humornou reflexí české národní identity a historie. Autoři [Zdeněk Svěrák](Zdeněk%20Svěrák.md) a [Ladislav Smoljak](Ladislav%20Smoljak.md) využívají historické postavy k tomu, aby komicky a kriticky reflektovali českou národní povahu a hodnoty. Hra je bohatá na humor, ironii a inteligentní dialogy, což z ní činí jedno z nejvýznamnějších děl české postmoderní divadelní tvorby.

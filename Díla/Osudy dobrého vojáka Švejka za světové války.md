@@ -2,13 +2,13 @@
 
 ## Základní informace
 
-- **Autor:** Jaroslav Hašek
+- **Autor:** [Jaroslav Hašek](Jaroslav%20Hašek.md)
 - **Rok vydání:** 1921
 
 ## Literární druh, žánr a směr
 
-- **Literární druh:** Román
-- **Literární žánr:** Satira, humoristický román
+- **Literární druh:** [Román](Román.md)
+- **Literární žánr:** Satira, humoristický [Román](Román.md)
 - **Literární směr:** Česká literatura 20. století, literatura expresionismu
 
 ## Téma
@@ -22,13 +22,13 @@
 
 ## Kompozice
 
-- Román je rozdělen do několika částí, které zachycují různá dobrodružství a situace hlavní postavy, Josefa Švejka.
+- [Román](Román.md) je rozdělen do několika částí, které zachycují různá dobrodružství a situace hlavní postavy, Josefa Švejka.
 - Jednotlivé epizody nejsou lineárně spojeny, ale spíše tvoří mozaiku absurdních událostí.
 
 ## Jazyk
 
 - Jedná se o vypravěčský styl s důrazem na dialogy a vnitřní monology postav.
-- Jazyk je jednoduchý, ale plný sarkasmu a ironie, často parodující válečnou rétoriku.
+- [Jazyk](Jazyk.md) je jednoduchý, ale plný sarkasmu a ironie, často parodující válečnou rétoriku.
 
 ## Jazykové prvky
 
@@ -66,7 +66,7 @@
 ### První část: V zázemí
 
 #### Úvod
-Román začíná v Praze, kde Josef Švejk, bývalý vojenský sluha, nyní prodává psy s falešnými rodokmeny. Po atentátu na arcivévodu Františka Ferdinanda v Sarajevu je atmosféra napjatá. Švejk je zatčen v hospodě U Kalicha poté, co v opilosti vysloví své názory na atentát, a je obviněn ze zrady.
+[Román](Román.md) začíná v Praze, kde Josef Švejk, bývalý vojenský sluha, nyní prodává psy s falešnými rodokmeny. Po atentátu na arcivévodu Františka Ferdinanda v Sarajevu je atmosféra napjatá. Švejk je zatčen v hospodě U Kalicha poté, co v opilosti vysloví své názory na atentát, a je obviněn ze zrady.
 
 #### Ve vězení a blázinci
 Švejk je poslán do vězení a poté do blázince, kde se setkává s různými bizarními postavami. Předstírá šílenství, aby se vyhnul trestu, což vede k jeho hospitalizaci na psychiatrii. Po propuštění je odveden do armády.

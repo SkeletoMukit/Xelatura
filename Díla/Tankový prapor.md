@@ -8,8 +8,8 @@
 ## Literární druh, žánr a směr 
 
 - **Literární druh:** [Román](https://cs.wikipedia.org/wiki/Rom%C3%A1n)
-- **Literární žánr:** Satira, humoristický román, vojenská literatura
-- **Literární směr:** Česká poválečná próza
+- **Literární žánr:** Satira, humoristický [Román](Román.md), vojenská literatura
+- **Literární směr:** Česká poválečná [Próza](Próza.md)
 
 ## Téma 
 
@@ -22,11 +22,11 @@
 
 ## Kompozice 
 
-- **Kompozice:** Epizodická, román je složen z řady volně propojených příhod a epizod, které dohromady tvoří obraz vojenského života
+- **Kompozice:** Epizodická, [Román](Román.md) je složen z řady volně propojených příhod a epizod, které dohromady tvoří obraz vojenského života
 
 ## Jazyk 
 
-- **Jazyk:** Český jazyk
+- **[Jazyk](Jazyk.md):** Český [Jazyk](Jazyk.md)
 - **Styl:** Realistický s prvky satiry a humoru
 
 ## Jazykové prvky 
@@ -71,11 +71,11 @@ Tato různorodá galerie postav vytváří pestrý obraz vojenského života v p
 
 ## Děj
 
-"Tankový prapor" je satirický román, který sleduje příběhy mladých mužů sloužících v československé poválečné armádě v 50. letech 20. století. Hlavní postavou a vypravěčem je Danny Smiřický, postava, která se objevuje i v dalších Škvoreckého dílech. Danny je ironický a skeptický mladý muž, který se snaží přežít vojenskou službu plnou absurdních a komických situací.
+"Tankový prapor" je satirický [Román](Román.md), který sleduje příběhy mladých mužů sloužících v československé poválečné armádě v 50. letech 20. století. Hlavní postavou a vypravěčem je Danny Smiřický, postava, která se objevuje i v dalších Škvoreckého dílech. Danny je ironický a skeptický mladý muž, který se snaží přežít vojenskou službu plnou absurdních a komických situací.
 
 ### Úvodní situace
 
-Román začíná příchodem Dannyho Smiřického do kasáren, kde se setkává s různými vojáky a veliteli. Každá postava přináší do příběhu své specifické charakteristiky a příběhy, které dohromady vytvářejí pestrý obraz vojenského života. Hned od začátku je zřejmé, že Danny nemá iluze o vojenské službě a vidí ji spíše jako nutné zlo, které musí přečkat.
+[Román](Román.md) začíná příchodem Dannyho Smiřického do kasáren, kde se setkává s různými vojáky a veliteli. Každá postava přináší do příběhu své specifické charakteristiky a příběhy, které dohromady vytvářejí pestrý obraz vojenského života. Hned od začátku je zřejmé, že Danny nemá iluze o vojenské službě a vidí ji spíše jako nutné zlo, které musí přečkat.
 
 ### Život v kasárnách
 
@@ -83,7 +83,7 @@ Danny se rychle seznamuje s fungováním kasáren a se životem v armádě. Setk
 
 ### Absurdní situace
 
-Román je složen z řady epizod, které popisují různé absurdní a komické situace, kterým musí Danny a jeho spolubojovníci čelit. Například jedno z nejznámějších líčení zahrnuje vojenské cvičení, kde se tanky zaseknou v bahně a vojáci se zoufale snaží splnit nesmyslné rozkazy svých velitelů.
+[Román](Román.md) je složen z řady epizod, které popisují různé absurdní a komické situace, kterým musí Danny a jeho spolubojovníci čelit. Například jedno z nejznámějších líčení zahrnuje vojenské cvičení, kde se tanky zaseknou v bahně a vojáci se zoufale snaží splnit nesmyslné rozkazy svých velitelů.
 
 Další epizody se zaměřují na každodenní život v kasárnách, jako jsou pravidelné nástupy, inspekce, či různé formy šikany a absurdních trestů. Danny se často dostává do konfliktu s nadřízenými kvůli své nekonformnosti a odporu vůči byrokracii.
 
@@ -97,7 +97,7 @@ Kromě vojenských zážitků se Danny snaží udržet svůj vztah s dívkou Jan
 
 ### Závěr
 
-Román končí bez dramatického vyvrcholení, což podtrhuje jeho realistický a epizodický charakter. Dannyho vojenská služba pokračuje, a čtenář je ponechán s obrazem každodenního boje o přežití v armádě, která postrádá smysl a účel. Škvorecký tak ukazuje, že vojenský život je plný absurdit a nesmyslných situací, které musí jednotlivci překonávat s ironií a humorem.
+[Román](Román.md) končí bez dramatického vyvrcholení, což podtrhuje jeho realistický a epizodický charakter. Dannyho vojenská služba pokračuje, a čtenář je ponechán s obrazem každodenního boje o přežití v armádě, která postrádá smysl a účel. Škvorecký tak ukazuje, že vojenský život je plný absurdit a nesmyslných situací, které musí jednotlivci překonávat s ironií a humorem.
 
 ### Shrnutí
 

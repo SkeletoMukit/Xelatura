@@ -2,13 +2,13 @@
 
 ## Základní informace
 
-- **Autor:** Karel Čapek
+- **Autor:** [Karel Čapek](Karel%20Čapek.md)
 - **Rok vydání:** 1937
 
 ## Literární druh, žánr a směr 
 
-- **Literární druh:** Drama
-- **Literární žánr:** Tragédie
+- **Literární druh:** [Drama](Drama.md)
+- **Literární žánr:** [Tragédie](Tragédie.md)
 - **Literární směr:** Český expresionismus
 
 ## Téma 
@@ -22,11 +22,11 @@
 
 ## Kompozice 
 
-- Drama je rozděleno do tří dějství, z nichž každé představuje jinou fázi konfliktu mezi hlavními postavami.
+- [Drama](Drama.md) je rozděleno do tří dějství, z nichž každé představuje jinou fázi konfliktu mezi hlavními postavami.
 
 ## Jazyk 
 
-- **Stylistika:** Čapekův typický expresionistický jazyk, plný emocí a dramatičnosti
+- **Stylistika:** Čapekův typický expresionistický [Jazyk](Jazyk.md), plný emocí a dramatičnosti
 - **Vypravěč:** Třetí osoba, popisující dění z vnější perspektivy
 
 ## Jazykové prvky 
@@ -46,7 +46,7 @@
 
 ### První dějství
 
-Drama začíná popisem šíření bílé nemoci, která postihuje lidi starší 45 let a způsobuje, že oběti umírají do tří až pěti měsíců. Dr. Galén objeví lék, ale podmíní jeho použití nastolením světového míru. Léčí pouze chudé a odmítá pomoci bohatým, kteří mají moc změnit svět. Mezitím maršál připravuje válku, ignorující katastrofální dopady nemoci na své občany.
+[Drama](Drama.md) začíná popisem šíření bílé nemoci, která postihuje lidi starší 45 let a způsobuje, že oběti umírají do tří až pěti měsíců. Dr. Galén objeví lék, ale podmíní jeho použití nastolením světového míru. Léčí pouze chudé a odmítá pomoci bohatým, kteří mají moc změnit svět. Mezitím maršál připravuje válku, ignorující katastrofální dopady nemoci na své občany.
 
 ### Druhé dějství
 

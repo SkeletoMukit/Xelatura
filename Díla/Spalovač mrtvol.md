@@ -2,14 +2,14 @@
 
 ## Základní informace
 
-- **Autor:** Ladislav Fuks
+- **Autor:** [Ladislav Fuks](Ladislav%20Fuks.md)
 - **Rok vydání:** 1967
 
 ## Literární druh, žánr a směr 
 
-- **Literární druh:** Román
-- **Literární žánr:** Psychologický román, novela
-- **Literární směr:** Česká poválečná próza
+- **Literární druh:** [Román](Román.md)
+- **Literární žánr:** Psychologický [Román](Román.md), [Novela](Novela.md)
+- **Literární směr:** Česká poválečná [Próza](Próza.md)
 
 ## Téma 
 
@@ -29,8 +29,8 @@
 
 ## Jazyk 
 
-- **Jazyk:** Formální, často obsahuje symboliku a metafory.
-- **Stylistické prvky:** Odborný jazyk spojený s prací v krematoriu, kontrastující s temnou atmosférou celého příběhu.
+- **[Jazyk](Jazyk.md):** Formální, často obsahuje symboliku a metafory.
+- **Stylistické prvky:** Odborný [Jazyk](Jazyk.md) spojený s prací v krematoriu, kontrastující s temnou atmosférou celého příběhu.
 
 ## Jazykové prvky 
 
@@ -60,11 +60,11 @@ Lékař a žid, který je jednou z obětí Karlovy zrady. Dr. Bettelheim předst
 ### Dagmar
 Karlova kolegyně z krematoria, která se objevuje v některých scénách jako vedlejší postava. Dagmar symbolizuje normální pracovní prostředí, které se však stává dějištěm Karlovy proměny a postupné ztráty morálních hodnot.
 
-Každá z těchto postav hraje důležitou roli v Karlově životě a jeho postupné přeměně z běžného člověka na fanatického stoupence nacistické ideologie. Ladislav Fuks mistrně vykresluje psychologický portrét těchto postav, což přispívá k hlubšímu pochopení témat dehumanizace a morální zkázy v extrémních podmínkách totalitního režimu.
+Každá z těchto postav hraje důležitou roli v Karlově životě a jeho postupné přeměně z běžného člověka na fanatického stoupence nacistické ideologie. [Ladislav Fuks](Ladislav%20Fuks.md) mistrně vykresluje psychologický portrét těchto postav, což přispívá k hlubšímu pochopení témat dehumanizace a morální zkázy v extrémních podmínkách totalitního režimu.
 
 ## Děj
 
-"Spalovač mrtvol" je psychologický román Ladislava Fukse, který se odehrává během nacistické okupace Československa a sleduje postupný morální pád hlavní postavy, Karla Kopfrkingla.
+"Spalovač mrtvol" je psychologický [Román](Román.md) Ladislava Fukse, který se odehrává během nacistické okupace Československa a sleduje postupný morální pád hlavní postavy, Karla Kopfrkingla.
 
 ### Úvodní situace
 
@@ -86,9 +86,9 @@ Karel je přesvědčen, že i jeho vlastní rodina musí projít očistou. V kul
 
 Závěr románu je tragický a temný. Karel Kopfrkingl je konfrontován s důsledky svých činů. Jeho psychické zhroucení a morální zkáza jsou úplné. Karel ztrácí kontakt s realitou a stává se úplně odtrženým od lidských hodnot. Jeho fanatismus a zaslepenost ho přivedly k bodu, odkud není návratu.
 
-Karel končí jako šílenec, uvězněný ve svých vlastních představách o očistě a spáse skrze smrt. Ztratil svou rodinu, přátele a nakonec i sebe. Román končí v temné atmosféře, která umocňuje hlavní témata díla – dehumanizaci a morální pád jednotlivce v extrémních podmínkách totalitního režimu.
+Karel končí jako šílenec, uvězněný ve svých vlastních představách o očistě a spáse skrze smrt. Ztratil svou rodinu, přátele a nakonec i sebe. [Román](Román.md) končí v temné atmosféře, která umocňuje hlavní témata díla – dehumanizaci a morální pád jednotlivce v extrémních podmínkách totalitního režimu.
 
-Celý příběh je vystaven v atmosféře beznaděje a temnoty, což podporuje hlavní témata díla týkající se dehumanizace a morální zkázy jednotlivce v extrémních podmínkách totalitního režimu. Ladislav Fuks zde mistrovsky vykresluje psychologický portrét člověka, který je schopen v určitých podmínkách zcela ztratit svou lidskost a stát se nástrojem zla.
+Celý příběh je vystaven v atmosféře beznaděje a temnoty, což podporuje hlavní témata díla týkající se dehumanizace a morální zkázy jednotlivce v extrémních podmínkách totalitního režimu. [Ladislav Fuks](Ladislav%20Fuks.md) zde mistrovsky vykresluje psychologický portrét člověka, který je schopen v určitých podmínkách zcela ztratit svou lidskost a stát se nástrojem zla.
 
 ## Pomocné zdroje
 

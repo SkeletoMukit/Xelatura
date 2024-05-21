@@ -10,8 +10,8 @@
 - **Příčina úmrtí:** Zápal plic
 - **Národnost:** Česká
 - **Profese:** Spisovatel, dramatik, novinář
-- **Žánr:** Science fiction, sociální satira, drama
-- **Umělecký směr:** Modernismus, science fiction, politická a sociální satira
+- **Žánr:** [Science fiction](Science%20fiction.md), sociální satira, [Drama](Drama.md)
+- **Umělecký směr:** Modernismus, [Science fiction](Science%20fiction.md), politická a sociální satira
 
 ## Život
 
@@ -33,7 +33,7 @@ Karel Čapek byl známý svou otevřenou kritikou totalitarismu, nacismu a komun
 - Další významné sci-fi dílo, kde Čapek kritizuje politiku a společenské tendence.
 
 ### Krakatit - 1922
-- Vědeckofantastický román o nebezpečném vynálezu, který může zničit svět.
+- Vědeckofantastický [Román](Román.md) o nebezpečném vynálezu, který může zničit svět.
 
 ### Ze života hmyzu - 1921
 - Satirická hra, která přirovnává lidskou společnost k hmyzu, napsaná ve spolupráci s bratrem Josefem.
@@ -42,13 +42,13 @@ Karel Čapek byl známý svou otevřenou kritikou totalitarismu, nacismu a komun
 - Romantická hra, která je do určité míry autobiografická a reflektuje Čapkovy zážitky z Paříže.
 
 ### Matka - 1938
-- Drama inspirované španělskou občanskou válkou, které zobrazuje konflikt mezi matkou a jejími syny, kteří chtějí bojovat ve válce.
+- [Drama](Drama.md) inspirované španělskou občanskou válkou, které zobrazuje konflikt mezi matkou a jejími syny, kteří chtějí bojovat ve válce.
 
 ### Bílá nemoc - 1937
-- Drama, které se zaměřuje na etické otázky spojené s vědeckým výzkumem a zneužíváním jeho výsledků.
+- [Drama](Drama.md), které se zaměřuje na etické otázky spojené s vědeckým výzkumem a zneužíváním jeho výsledků.
 
 ### Povídky z jedné kapsy (1929) a Povídky z druhé kapsy (1929)
 - Dvě sbírky krátkých příběhů s detektivními a filozofickými tématy.
 
 ### Věc Makropulos - 1922
-- Drama, které zkoumá téma nesmrtelnosti a jeho důsledků.
+- [Drama](Drama.md), které zkoumá téma nesmrtelnosti a jeho důsledků.

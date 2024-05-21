@@ -10,7 +10,7 @@
 - **Příčina úmrtí:** Rakovina
 - **Národnost:** Česká
 - **Profese:** Herec, režisér, scenárista
-- **Žánr:** Komedie, satira, drama
+- **Žánr:** [Komedie](Komedie.md), satira, [Drama](Drama.md)
 - **Umělecký směr:** Postmodernismus
 
 ## Život
@@ -26,9 +26,9 @@
 #### Divadelní hry
 
 - **Akt** (1967): První hra Divadla Járy Cimrmana, která zahájila dlouhou řadu úspěšných cimrmanovských her.
-- **Vyšetřování ztráty třídní knihy** (1967): Absurdní komedie zaměřená na školní prostředí.
+- **Vyšetřování ztráty třídní knihy** (1967): Absurdní [Komedie](Komedie.md) zaměřená na školní prostředí.
 - **Hospoda Na mýtince** (1969): Další populární hra, která se stala součástí klasického repertoáru Divadla Járy Cimrmana.
-- **Vražda v salonním coupé** (1970): Detektivní komedie se slavnou postavou inspektora Trachty.
+- **Vražda v salonním coupé** (1970): Detektivní [Komedie](Komedie.md) se slavnou postavou inspektora Trachty.
 - **Němý Bobeš** (1971): Hra parodující literární a dramatické konvence.
 - **Cimrman v říši hudby** (1973): Hra s operou „Úspěch českého inženýra v Indii“.
 - **Dlouhý, Široký a Krátkozraký** (1974): Parodie na pohádky.
@@ -37,8 +37,8 @@
 - **Dobytí severního pólu** (1985): Historická parodie na polární expedice.
 - **Blaník** (1990): Hra inspirovaná českými národními pověstmi.
 - **Záskok** (1994): Hra o náhradníkovi, který musí zaskočit za hlavního herce.
-- **Švestka** (1997): Komedie o řešení životních situací a problémů.
-- **České nebe** (2008): Poslední hra Divadla Járy Cimrmana, satirická reflexe české národní identity.
+- **Švestka** (1997): [Komedie](Komedie.md) o řešení životních situací a problémů.
+- **[České nebe](České%20nebe.md)** (2008): Poslední hra Divadla Járy Cimrmana, satirická reflexe české národní identity.
 
 ### Filmová tvorba
 

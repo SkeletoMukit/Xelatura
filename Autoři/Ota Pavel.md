@@ -10,7 +10,7 @@
 - **Příčina úmrtí:** Srdeční infarkt
 - **Národnost:** Česká
 - **Profese:** Spisovatel, novinář
-- **Žánr:** Prozaik, sportovní literatura, autobiografická próza
+- **Žánr:** Prozaik, sportovní literatura, autobiografická [Próza](Próza.md)
 - **Umělecký směr:** Realismus, autobiografická literatura
 
 ## Život
@@ -27,7 +27,7 @@ Během zimní olympiády v Innsbrucku v roce 1964 u něj propukla vážná duše
 - Kniha fotografií Viléma Heckela, ke které Pavel napsal doprovodný text.
 
 ### Dukla mezi mrakodrapy (1964)
-- Sportovní próza o úspěchu českého fotbalového týmu Dukla Praha v USA, která kombinuje prvky beletrie a sportovní reportáže.
+- Sportovní [Próza](Próza.md) o úspěchu českého fotbalového týmu Dukla Praha v USA, která kombinuje prvky beletrie a sportovní reportáže.
 
 ### Plná bedna šampaňského (1967)
 - Sbírka povídek ze sportovního prostředí.
@@ -36,10 +36,10 @@ Během zimní olympiády v Innsbrucku v roce 1964 u něj propukla vážná duše
 - Výbor z knih Dukla mezi mrakodrapy a Plná bedna šampaňského.
 
 ### Pohár od Pánaboha (1971)
-- Próza ze sportovního prostředí.
+- [Próza](Próza.md) ze sportovního prostředí.
 
 ### Smrt krásných srnců (1971)
-- Vzpomínková próza líčící dětství a mládí, především život jeho otce, svérázného židovského obchodníka.
+- Vzpomínková [Próza](Próza.md) líčící dětství a mládí, především život jeho otce, svérázného židovského obchodníka.
 
 ### Syn celerového krále (1972)
 - Sbírka povídek o slavných sportovcích.
@@ -48,7 +48,7 @@ Během zimní olympiády v Innsbrucku v roce 1964 u něj propukla vážná duše
 - Vzpomínková kniha zaměřená na Pavlovy zážitky z rybaření a osobní život.
 
 ### Pohádka o Raškovi (1974)
-- Sportovní pohádka inspirovaná životem českého skokana na lyžích Jiřího Rašky.
+- Sportovní [Pohádka](Pohádka.md) inspirovaná životem českého skokana na lyžích Jiřího Rašky.
 
 ### Posmrtně vydané výbory
 - Fialový poustevník (1977)

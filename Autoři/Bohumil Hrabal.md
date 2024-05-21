@@ -27,13 +27,13 @@ Hrabal byl známý svým nekonvenčním životním stylem a humorem, který se p
 - Toto dílo zahrnuje humorné příběhy a povídky, které jsou charakteristické pro Hrabalův styl psaní.
 
 ### Ostře sledované vlaky (1965)
-- Novela, která je považována za jedno z jeho nejslavnějších děl. Vypráví příběh mladého muže, který pracuje jako vlakvedoucí během druhé světové války.
+- [Novela](Novela.md), která je považována za jedno z jeho nejslavnějších děl. Vypráví příběh mladého muže, který pracuje jako vlakvedoucí během druhé světové války.
 
 ### Příliš hlučná samota (1976)
-- Tento román je považován za jedno z vrcholných děl Hrabalovy tvorby. Popisuje život a dobrodružství excentrického sběratele starých novin.
+- Tento [Román](Román.md) je považován za jedno z vrcholných děl Hrabalovy tvorby. Popisuje život a dobrodružství excentrického sběratele starých novin.
 
 ### Obsluhoval jsem anglického krále (1971)
-- Román, který vypráví příběh Jana Dítěte, mladíka s ambicemi stát se bohatým. Jeho životní cesta ho zavede do různých profesí a situací.
+- [Román](Román.md), který vypráví příběh Jana Dítěte, mladíka s ambicemi stát se bohatým. Jeho životní cesta ho zavede do různých profesí a situací.
 
 ### Postřižiny (1976)
 - Další významné dílo Bohumila Hrabala, které se odehrává v pivovaru. Příběh líčí osudy místních obyvatel, jejichž životy jsou spojeny s provozem pivovaru.
